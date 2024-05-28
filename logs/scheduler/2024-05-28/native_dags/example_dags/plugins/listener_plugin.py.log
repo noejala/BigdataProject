@@ -93,3 +93,8 @@
 [2024-05-28T16:52:03.865+0200] {logging_mixin.py:188} INFO - [2024-05-28T16:52:03.865+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
 [2024-05-28T16:52:03.866+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
 [2024-05-28T16:52:03.908+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.046 seconds
+[2024-05-28T16:53:28.600+0200] {processor.py:161} INFO - Started process (PID=4983) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-05-28T16:53:28.601+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-05-28T16:53:28.602+0200] {logging_mixin.py:188} INFO - [2024-05-28T16:53:28.602+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-05-28T16:53:28.603+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-05-28T16:53:28.638+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.039 seconds

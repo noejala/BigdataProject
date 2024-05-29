@@ -2,6 +2,8 @@ import json
 from datetime import date
 import os
 
+
+# Enregistre le fichier dans datalake
 HOME = os.path.dirname(os.path.abspath(__file__))
 DATALAKE_ROOT_FOLDER = HOME + "/datalake/"
 
@@ -33,24 +35,24 @@ def formated(source, entity, response, path):
 
 def sources(source, entity, response, path):
     if source == 1:
-        path += "source1/"
+        path += "DATA/"
         return entitysource1(entity, response, path)
     if source == 2:
-        path += "source2/"
+        path += "API/"
         return entitysource2(entity, response, path)
 
 
 def entitysource1(entity, response, path):
     if entity == 1:
-        path += "objetTrouver/"
+        path += "SCNF_TER_Horraire/"
     if entity == 2:
-        path += "gares/"
+        path += "GARE/"
     return path
 
 
 def entitysource2(entity, response, path):
     if entity == 1:
-        path += "objetTrouver/"
+        path += "SCNF_TER_Horraire/"
     if entity == 2:
         path += "gares/"
     return path
@@ -63,5 +65,6 @@ def storeDir(response, path):
     if not os.path.exists(path):
         os.makedirs(path)
     print("Writing here: ", path)
+    print(response)
     f = open(path + "response.json", "w+")
     f.write(json.dumps(response, indent=4))

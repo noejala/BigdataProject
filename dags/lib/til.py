@@ -46,7 +46,7 @@ def entitysource1(entity, response, path):
     if entity == 1:
         path += "SCNF_TER_Horraire/"
     if entity == 2:
-        path += "GARE/"
+        path += "GARES/typeA/"
     return path
 
 

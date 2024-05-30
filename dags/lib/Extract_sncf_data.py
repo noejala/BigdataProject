@@ -6,25 +6,24 @@ auth_key = '1e89b5c26ebbf0eb72b108476a4504bec9ed5fdac9abb8585b97c66c'
 baseUrl = 'https://'
 
 
-def fetch_data_and_map_to_gare(entity_id,source,entity):
+def fetch_data_and_map_to_gare(entity_id,source):
     api_url = baseUrl
     api_url += 'ressources.data.sncf.com/api/explore/v2.1/catalog/datasets/'
     if (entity_id == 1):
-        fetchentity1(api_url,source,entity)
-        return
+        api_url = fetchentity1(api_url)
     if (entity_id == 2):
-        fetchentity2(api_url,source,entity)
-        return
+        api_url = fetchentity2(api_url)
+    fetch(api_url,source,entity_id)
     return
 
 # Rajouter les filtres et etre sur que les ifs au dessus match
-def fetchentity1(api_url,source,entity):
+def fetchentity1(api_url):
     api_url += 'sncf-ter-gtfs/records?limit=100'
-    fetch(api_url,source,entity)
+    return api_url
 
-def fetchentity2(api_url,source,entity):
+def fetchentity2(api_url):
     api_url += 'gares-de-voyageurs/records?where=segment_drg%20%3D%20%22A%22&limit=100'
-    fetch(api_url,source,entity)
+    return api_url
 
 
 def fetch(api_url,source,entity):

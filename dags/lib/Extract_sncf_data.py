@@ -17,7 +17,7 @@ def fetch_data_and_map_to_gare(entity_id,source,entity):
         return
     return
 
-# Rajouter les filtres et etre sur que les ifs audessus match
+# Rajouter les filtres et etre sur que les ifs au dessus match
 def fetchentity1(api_url,source,entity):
     api_url += 'sncf-ter-gtfs/records?limit=100'
     fetch(api_url,source,entity)

@@ -3,7 +3,7 @@ import til
 
 import pandas as pd
 
-# Dernier dans la boucle, une fois json enresitré, ça enregistre dans le dossier formated
+# Dernier dans la boucle, une fois json enresitré, ça enregistre dans le dossier formatted
 # Rajouter avant
 
 HOME = os.path.dirname(os.path.abspath(__file__))

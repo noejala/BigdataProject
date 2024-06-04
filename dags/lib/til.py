@@ -29,7 +29,7 @@ def raw(source, entity, response, path):
 
 
 def formated(source, entity, response, path):
-    path += "formated/"
+    path += "formatted/"
     return sources(source, entity, response, path)
 
 

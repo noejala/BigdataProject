@@ -1,0 +1,3717 @@
+{
+    "total_count": 27725131,
+    "results": [
+        {
+            "iu_ac": "267",
+            "libelle": "Tronchet",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 45.0,
+            "k": 1.34167,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "158",
+            "libelle_nd_amont": "Madeleine-Tronchet",
+            "iu_nd_aval": "161",
+            "libelle_nd_aval": "Tronchet-Castellane",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3255740410151313,
+                "lat": 48.871416381497575
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.32513560183371,
+                            48.870807368135836
+                        ],
+                        [
+                            2.3260124801965523,
+                            48.87202539485931
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "268",
+            "libelle": "Tronchet",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 208.0,
+            "k": 11.11889,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "161",
+            "libelle_nd_amont": "Tronchet-Castellane",
+            "iu_nd_aval": "158",
+            "libelle_nd_aval": "Madeleine-Tronchet",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.325394927682308,
+                "lat": 48.87146796563136
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3258423675889452,
+                            48.87207242572821
+                        ],
+                        [
+                            2.324947487775671,
+                            48.87086350553451
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "271",
+            "libelle": "VGP_Cours_la_Reine",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 965.0,
+            "k": 9.76334,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "163",
+            "libelle_nd_amont": "Souterrain_Cours_la_Reine",
+            "iu_nd_aval": "135",
+            "libelle_nd_aval": "Cours_la_Reine-Concorde",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3084567115959773,
+                "lat": 48.864670422335884
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3070594083171563,
+                            48.864638650556536
+                        ],
+                        [
+                            2.309854014874799,
+                            48.86470219411522
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "274",
+            "libelle": "Cours_la_Reine",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "135",
+            "libelle_nd_amont": "Cours_la_Reine-Concorde",
+            "iu_nd_aval": "164",
+            "libelle_nd_aval": "Pl_Canada-Winston_Churchill",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3161818411026007,
+                "lat": 48.86503770099675
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3185822495165165,
+                            48.865074749632605
+                        ],
+                        [
+                            2.313781432688685,
+                            48.865000652360905
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "277",
+            "libelle": "Pl_du_Canada",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "165",
+            "libelle_nd_amont": "Pt_Alexandre_III_Droite",
+            "iu_nd_aval": "164",
+            "libelle_nd_aval": "Pl_Canada-Winston_Churchill",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3138000757490715,
+                "lat": 48.86481267406613
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3138187188094577,
+                            48.86462469577135
+                        ],
+                        [
+                            2.313781432688685,
+                            48.865000652360905
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "281",
+            "libelle": "Rivoli",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 344.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "168",
+            "libelle_nd_amont": "Rivoli-29_Juillet",
+            "iu_nd_aval": "167",
+            "libelle_nd_aval": "Rivoli-Castiglione",
+            "etat_barre": "Barré",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.328666329433135,
+                "lat": 48.86486198987056
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3300736682310164,
+                            48.864392744705455
+                        ],
+                        [
+                            2.3272589906352534,
+                            48.86533123503567
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "283",
+            "libelle": "Rivoli",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "16",
+            "libelle_nd_amont": "Rivoli-Rohan",
+            "iu_nd_aval": "2245",
+            "libelle_nd_aval": "Rivoli-Echelle",
+            "etat_barre": "Barré",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3344290585537735,
+                "lat": 48.86296591063163
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3351458671496284,
+                            48.86273477162744
+                        ],
+                        [
+                            2.333712249957919,
+                            48.86319704963581
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "286",
+            "libelle": "Lemonnier",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 861.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "170",
+            "libelle_nd_amont": "Souterrain_Lemonier",
+            "iu_nd_aval": "169",
+            "libelle_nd_aval": "Place_Des_Pyramides",
+            "etat_barre": "Ouvert",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3315328106189033,
+                "lat": 48.86304052690603
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3310209291822073,
+                            48.86234913148615
+                        ],
+                        [
+                            2.3320446920555993,
+                            48.863731922325925
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "295",
+            "libelle": "Pyramides",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 861.0,
+            "k": 8.91278,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "169",
+            "libelle_nd_amont": "Place_Des_Pyramides",
+            "iu_nd_aval": "174",
+            "libelle_nd_aval": "St_Honore-Pyramides",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3323611451087043,
+                "lat": 48.864135407963516
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3320446920555993,
+                            48.863731922325925
+                        ],
+                        [
+                            2.3326775981618098,
+                            48.864538893601114
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "296",
+            "libelle": "Pyramides",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 861.0,
+            "k": 12.73611,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "174",
+            "libelle_nd_amont": "St_Honore-Pyramides",
+            "iu_nd_aval": "176",
+            "libelle_nd_aval": "Pyramides-Argenteuil",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333122213325919,
+                "lat": 48.86514845658718
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3326775981618098,
+                            48.864538893601114
+                        ],
+                        [
+                            2.333566828490029,
+                            48.86575801957325
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "297",
+            "libelle": "Pyramides",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 861.0,
+            "k": 12.73611,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "176",
+            "libelle_nd_amont": "Pyramides-Argenteuil",
+            "iu_nd_aval": "177",
+            "libelle_nd_aval": "Av_de_l'Opera-Pyramides",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3337947371219165,
+                "lat": 48.86607047063452
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.333566828490029,
+                            48.86575801957325
+                        ],
+                        [
+                            2.3340226457538042,
+                            48.86638292169581
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "299",
+            "libelle": "Av_de_l'Opera",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 429.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "87",
+            "libelle_nd_amont": "Pl_Andre_Malraux",
+            "iu_nd_aval": "178",
+            "libelle_nd_aval": "Av_de_l'Opera-Echelle",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.335281376074057,
+                "lat": 48.863785979947934
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.335333592338428,
+                            48.86267815718623
+                        ],
+                        [
+                            2.3356076193212094,
+                            48.86314275287202
+                        ],
+                        [
+                            2.3348494035323797,
+                            48.86491839347144
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1046",
+            "libelle": "Bd_Lefebvre",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 684.0,
+            "k": 5.975,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "583",
+            "libelle_nd_amont": "Bd_Lefebvre-Olivier_de_Serres",
+            "iu_nd_aval": "582",
+            "libelle_nd_aval": "Bd_Lefebvre-Parc_Expo",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.2911800636064883,
+                "lat": 48.83153857298023
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.292307670992064,
+                            48.831032390349435
+                        ],
+                        [
+                            2.290052456220913,
+                            48.83204475561102
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1048",
+            "libelle": "Bd_Lefebvre",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 267.0,
+            "k": 1.79611,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "584",
+            "libelle_nd_amont": "Av_Pte_de_Plaisance",
+            "iu_nd_aval": "583",
+            "libelle_nd_aval": "Bd_Lefebvre-Olivier_de_Serres",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.294201513115326,
+                "lat": 48.830432014757235
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.295924755828305,
+                            48.829904064006705
+                        ],
+                        [
+                            2.2924782704023468,
+                            48.83095996550777
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1049",
+            "libelle": "Bd_Lefebvre",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "584",
+            "libelle_nd_amont": "Av_Pte_de_Plaisance",
+            "iu_nd_aval": "585",
+            "libelle_nd_aval": "Bd_Lefebvre-Jean_Sicard",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.2972842353574006,
+                "lat": 48.82936940464138
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.295690992323241,
+                            48.82972681417888
+                        ],
+                        [
+                            2.29887747839156,
+                            48.82901199510389
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1051",
+            "libelle": "Bd_Lefebvre",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "585",
+            "libelle_nd_amont": "Bd_Lefebvre-Jean_Sicard",
+            "iu_nd_aval": "586",
+            "libelle_nd_aval": "Bd_Lefebvre-Brancion",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3000474501811525,
+                "lat": 48.828749505683376
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.29887747839156,
+                            48.82901199510389
+                        ],
+                        [
+                            2.301217421970745,
+                            48.82848701626286
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1053",
+            "libelle": "Bd_Lefebvre",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": 2.06555,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "586",
+            "libelle_nd_amont": "Bd_Lefebvre-Brancion",
+            "iu_nd_aval": "587",
+            "libelle_nd_aval": "Bd_Lefebvre-Jacques_Baudry",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3020970068091353,
+                "lat": 48.828297871078
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3013999944669723,
+                            48.828453744606634
+                        ],
+                        [
+                            2.3027940191512983,
+                            48.828141997549366
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1054",
+            "libelle": "Bd_Lefebvre",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 267.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "587",
+            "libelle_nd_amont": "Bd_Lefebvre-Jacques_Baudry",
+            "iu_nd_aval": "586",
+            "libelle_nd_aval": "Bd_Lefebvre-Brancion",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.30224148770606,
+                "lat": 48.82850043087235
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3030068093674445,
+                            48.82833341153527
+                        ],
+                        [
+                            2.301476166044676,
+                            48.82866745020944
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1055",
+            "libelle": "Bd_Lefebvre",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": 2.06555,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "587",
+            "libelle_nd_amont": "Bd_Lefebvre-Jacques_Baudry",
+            "iu_nd_aval": "588",
+            "libelle_nd_aval": "Pte_de_Vanves",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3038959541752604,
+                "lat": 48.82789205252648
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3027940191512983,
+                            48.828141997549366
+                        ],
+                        [
+                            2.304997889199222,
+                            48.8276421075036
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1057",
+            "libelle": "Bd_Brune",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 256.0,
+            "k": 3.49944,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "588",
+            "libelle_nd_amont": "Pte_de_Vanves",
+            "iu_nd_aval": "589",
+            "libelle_nd_aval": "Bd_Brune-Wilfrid_Laurier",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3060811838353796,
+                "lat": 48.827404025703075
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3053683423630273,
+                            48.82755971816755
+                        ],
+                        [
+                            2.3067940253077315,
+                            48.82724833323859
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1058",
+            "libelle": "Bd_Brune",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 246.0,
+            "k": 1.95667,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "589",
+            "libelle_nd_amont": "Bd_Brune-Wilfrid_Laurier",
+            "iu_nd_aval": "588",
+            "libelle_nd_aval": "Pte_de_Vanves",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3062022481554156,
+                "lat": 48.82762810232434
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.306925413217463,
+                            48.82746711324303
+                        ],
+                        [
+                            2.3054790830933682,
+                            48.82778909140565
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1060",
+            "libelle": "Bd_Brune",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 246.0,
+            "k": 1.95667,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "590",
+            "libelle_nd_amont": "Bd_Brune-Prevost_Paradol",
+            "iu_nd_aval": "589",
+            "libelle_nd_aval": "Bd_Brune-Wilfrid_Laurier",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.307897586668873,
+                "lat": 48.8272506692623
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.308869760120283,
+                            48.82703422528156
+                        ],
+                        [
+                            2.306925413217463,
+                            48.82746711324303
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1061",
+            "libelle": "Bd_Brune",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 256.0,
+            "k": 1.68056,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "590",
+            "libelle_nd_amont": "Bd_Brune-Prevost_Paradol",
+            "iu_nd_aval": "591",
+            "libelle_nd_aval": "Bd_Brune-Didot",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3105606343605958,
+                "lat": 48.82642552229184
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.308750100703984,
+                            48.82682105533983
+                        ],
+                        [
+                            2.3123711680172074,
+                            48.826029989243864
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1063",
+            "libelle": "Bd_Brune",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 256.0,
+            "k": 1.14666,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "591",
+            "libelle_nd_amont": "Bd_Brune-Didot",
+            "iu_nd_aval": "592",
+            "libelle_nd_aval": "Bd_Brune-Bournazel",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.313310704940731,
+                "lat": 48.8258259111864
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.312588677880397,
+                            48.82598218755847
+                        ],
+                        [
+                            2.314032732001065,
+                            48.82566963481434
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1064",
+            "libelle": "Bd_Brune",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 246.0,
+            "k": 4.38222,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "592",
+            "libelle_nd_amont": "Bd_Brune-Bournazel",
+            "iu_nd_aval": "591",
+            "libelle_nd_aval": "Bd_Brune-Didot",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.313501853466434,
+                "lat": 48.826004874983795
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3141282197723503,
+                            48.82586720061573
+                        ],
+                        [
+                            2.312875487160518,
+                            48.82614254935185
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1069",
+            "libelle": "Quai_d'Issy",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 904.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "594",
+            "libelle_nd_amont": "Quai_Issy_W-Echangeur_Garigliano",
+            "iu_nd_aval": "562",
+            "libelle_nd_aval": "Quai_Andre_Citroen-av_Victor",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.2693600537189673,
+                "lat": 48.838419149848605
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.267862060891758,
+                            48.836419062290815
+                        ],
+                        [
+                            2.2680315067548693,
+                            48.83673131030887
+                        ],
+                        [
+                            2.2683510893701597,
+                            48.83713226444884
+                        ],
+                        [
+                            2.2688042184576562,
+                            48.83772881158629
+                        ],
+                        [
+                            2.269017633851995,
+                            48.83809789720117
+                        ],
+                        [
+                            2.269167470735804,
+                            48.83841610300228
+                        ],
+                        [
+                            2.2693782710051518,
+                            48.838693174787956
+                        ],
+                        [
+                            2.2696207707019456,
+                            48.83894163274019
+                        ],
+                        [
+                            2.2698891016808167,
+                            48.83913978395576
+                        ],
+                        [
+                            2.2701681142669745,
+                            48.83935561841567
+                        ],
+                        [
+                            2.270441834597428,
+                            48.839619725216835
+                        ],
+                        [
+                            2.27071472742917,
+                            48.839942195557924
+                        ],
+                        [
+                            2.2710943347487587,
+                            48.8402053183309
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1071",
+            "libelle": "Quai_d'Issy",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "573",
+            "libelle_nd_amont": "Bd_Gal_Valin-Pt_du_Garigliano",
+            "iu_nd_aval": "562",
+            "libelle_nd_aval": "Quai_Andre_Citroen-av_Victor",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.2704837826454307,
+                "lat": 48.839468272130034
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.2698860561809195,
+                            48.83872010864461
+                        ],
+                        [
+                            2.2709338432173047,
+                            48.84003492547375
+                        ],
+                        [
+                            2.2710943347487587,
+                            48.8402053183309
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1077",
+            "libelle": "Quai_d'Issy_bretelle_1",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "599",
+            "libelle_nd_amont": "Quai_Issy_bretelles_1-2",
+            "iu_nd_aval": "597",
+            "libelle_nd_aval": "Quai_Issy-Sortie_BP",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.267818195472518,
+                "lat": 48.835333304802454
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.268731187337167,
+                            48.83539062701658
+                        ],
+                        [
+                            2.267611148323238,
+                            48.835274634741616
+                        ],
+                        [
+                            2.266909065205855,
+                            48.835394105959416
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1078",
+            "libelle": "Quai_Issy_bretelle_4b",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "3183",
+            "libelle_nd_amont": "Quai_Issy_bretelles_4-4b",
+            "iu_nd_aval": "3184",
+            "libelle_nd_aval": "Quai_Issy_bretelles_2-4b",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.2698082904646735,
+                "lat": 48.83574040049197
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.2703193850146337,
+                            48.83583787288409
+                        ],
+                        [
+                            2.2698933757352697,
+                            48.83580773438604
+                        ],
+                        [
+                            2.269564563872686,
+                            48.83567721499844
+                        ],
+                        [
+                            2.2693270029269805,
+                            48.83554113638788
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1079",
+            "libelle": "Quai_d'Issy_bretelle_4",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "600",
+            "libelle_nd_amont": "Quai_Issy_bretelle_4-Bretelle_3",
+            "iu_nd_aval": "3183",
+            "libelle_nd_aval": "Quai_Issy_bretelles_4-4b",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.2705142616356615,
+                "lat": 48.83534688389206
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.270132863571163,
+                            48.83492389476661
+                        ],
+                        [
+                            2.2705310742844667,
+                            48.83506299331374
+                        ],
+                        [
+                            2.270648414657624,
+                            48.83517896399822
+                        ],
+                        [
+                            2.270706254652404,
+                            48.83546183779762
+                        ],
+                        [
+                            2.270552436929736,
+                            48.83574443718145
+                        ],
+                        [
+                            2.2703193850146337,
+                            48.83583787288409
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1847",
+            "libelle": "Bd_Ney",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2001",
+            "libelle_nd_amont": "Bd_Ney-Av_Pte_Montmartre",
+            "iu_nd_aval": "2005",
+            "libelle_nd_aval": "Bd_Ney-A_Ranc",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3354136854205887,
+                "lat": 48.89784320198298
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3372621970813396,
+                            48.89788588033398
+                        ],
+                        [
+                            2.3335651737598377,
+                            48.897800523631986
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1848",
+            "libelle": "Bd_Ney",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 394.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2005",
+            "libelle_nd_amont": "Bd_Ney-A_Ranc",
+            "iu_nd_aval": "2001",
+            "libelle_nd_aval": "Bd_Ney-Av_Pte_Montmartre",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.335475440675345,
+                "lat": 48.89767920222805
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.333572597143442,
+                            48.89763937992692
+                        ],
+                        [
+                            2.3373782842072472,
+                            48.89771902452917
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1849",
+            "libelle": "Bd_Ney",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": 1.96167,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "2005",
+            "libelle_nd_amont": "Bd_Ney-A_Ranc",
+            "iu_nd_aval": "2007",
+            "libelle_nd_aval": "Bd_Ney-Face_Hopital_Bichat",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3324122365464848,
+                "lat": 48.897773875564674
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3335651737598377,
+                            48.897800523631986
+                        ],
+                        [
+                            2.331259299333132,
+                            48.89774722749736
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1850",
+            "libelle": "Bd_Ney",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 394.0,
+            "k": 3.79667,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "2007",
+            "libelle_nd_amont": "Bd_Ney-Face_Hopital_Bichat",
+            "iu_nd_aval": "2005",
+            "libelle_nd_aval": "Bd_Ney-A_Ranc",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.332415949693189,
+                "lat": 48.89761514384929
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3312593022429358,
+                            48.89759090777166
+                        ],
+                        [
+                            2.333572597143442,
+                            48.89763937992692
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1855",
+            "libelle": "Av_de_la_Pte_de_St_Ouen",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2010",
+            "libelle_nd_amont": "Pte_St_Ouen-PI",
+            "iu_nd_aval": "2009",
+            "libelle_nd_aval": "Av_Pte_St_Ouen-Andre_Brechet",
+            "etat_barre": "Invalide",
+            "date_debut": "2005-01-01",
+            "date_fin": "2019-06-01",
+            "geo_point_2d": {
+                "lon": 2.329496406365426,
+                "lat": 48.89975834216456
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3296950802629954,
+                            48.90045483866935
+                        ],
+                        [
+                            2.3292977324678565,
+                            48.89906184565978
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1856",
+            "libelle": "AI_St_Ouen",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2010",
+            "libelle_nd_amont": "Pte_St_Ouen-PI",
+            "iu_nd_aval": "3585",
+            "libelle_nd_aval": "AI_St_Ouen-1",
+            "etat_barre": "Ouvert",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.330885958370758,
+                "lat": 48.90049575041996
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3301360358413032,
+                            48.9004483035998
+                        ],
+                        [
+                            2.3316358809002127,
+                            48.90054319724011
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1859",
+            "libelle": "Bd_Bessieres",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2015",
+            "libelle_nd_amont": "Bd_Bessieres-Pouchet-Mousson",
+            "iu_nd_aval": "2013",
+            "libelle_nd_aval": "Bd_Bessieres-J_Leclaire",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3248557694217293,
+                "lat": 48.89746690037213
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.323094969296318,
+                            48.89743423458133
+                        ],
+                        [
+                            2.326616569547141,
+                            48.89749956616293
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1860",
+            "libelle": "Bd_Bessieres",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 283.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "3641",
+            "libelle_nd_amont": "Bd_Bessieres_face_67",
+            "iu_nd_aval": "2015",
+            "libelle_nd_aval": "Bd_Bessieres-Pouchet-Mousson",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3193877733056394,
+                "lat": 48.896434388366515
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.318346181968169,
+                            48.89604907183814
+                        ],
+                        [
+                            2.32042936464311,
+                            48.89681970489488
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1861",
+            "libelle": "Bd_Bessieres",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 487.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2015",
+            "libelle_nd_amont": "Bd_Bessieres-Pouchet-Mousson",
+            "iu_nd_aval": "3641",
+            "libelle_nd_aval": "Bd_Bessieres_face_67",
+            "etat_barre": "Invalide",
+            "date_debut": "2005-01-01",
+            "date_fin": "2019-06-01",
+            "geo_point_2d": {
+                "lon": 2.3192337748699448,
+                "lat": 48.896566212548706
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3202676132800284,
+                            48.89694997992593
+                        ],
+                        [
+                            2.3181999364598616,
+                            48.89618244517149
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1862",
+            "libelle": "Bd_Bessieres",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 487.0,
+            "k": 3.14389,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "2018",
+            "libelle_nd_amont": "Bd_Bessieres-Dr_Brousse",
+            "iu_nd_aval": "2019",
+            "libelle_nd_aval": "Bd_Bessieres-Joncquiere",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.317182973005072,
+                "lat": 48.895804916227746
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3181999364598616,
+                            48.89618244517149
+                        ],
+                        [
+                            2.3161660095502823,
+                            48.895427387283995
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1866",
+            "libelle": "Bd_Berthier",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 556.0,
+            "k": 3.905,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "2022",
+            "libelle_nd_amont": "Bd_Berthier-Magasins-Opera",
+            "iu_nd_aval": "2023",
+            "libelle_nd_aval": "Pont_SNCF",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.310029878866778,
+                "lat": 48.89295286868955
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3120049441195367,
+                            48.89379444757254
+                        ],
+                        [
+                            2.3080548136140195,
+                            48.89211128980656
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1868",
+            "libelle": "Bd_Berthier",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2022",
+            "libelle_nd_amont": "Bd_Berthier-Magasins-Opera",
+            "iu_nd_aval": "2024",
+            "libelle_nd_aval": "Av_de_Clichy-Bd_Bessieres",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3128717429982872,
+                "lat": 48.89398238515085
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.312138954628249,
+                            48.89366802591632
+                        ],
+                        [
+                            2.313604531368326,
+                            48.89429674438538
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1869",
+            "libelle": "Av_de_la_Pte_de_Clichy",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "3643",
+            "libelle_nd_amont": "Clichy-Suares",
+            "iu_nd_aval": "2025",
+            "libelle_nd_aval": "Pte_Clichy-PI",
+            "etat_barre": "Invalide",
+            "date_debut": "2005-01-01",
+            "date_fin": "2019-06-01",
+            "geo_point_2d": {
+                "lon": 2.310417523297203,
+                "lat": 48.89667407046775
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3105806722112745,
+                            48.8964442437451
+                        ],
+                        [
+                            2.310254374383131,
+                            48.89690389719041
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1870",
+            "libelle": "Av_de_la_Pte_de_Clichy",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2025",
+            "libelle_nd_amont": "Pte_Clichy-PI",
+            "iu_nd_aval": "2024",
+            "libelle_nd_aval": "Av_de_Clichy-Bd_Bessieres",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.30981064304825,
+                "lat": 48.89644062649936
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.309575730054493,
+                            48.896672745824
+                        ],
+                        [
+                            2.3100455560420063,
+                            48.89620850717473
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1873",
+            "libelle": "Av_de_Clichy",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 521.0,
+            "k": 38.89778,
+            "etat_trafic": "Saturé",
+            "iu_nd_amont": "2030",
+            "libelle_nd_amont": "Av_de_Clichy-SNCF",
+            "iu_nd_aval": "2029",
+            "libelle_nd_aval": "Av_de_Clichy-Bodin",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.316352098800791,
+                "lat": 48.89271807343776
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.315591224493539,
+                            48.89315527125965
+                        ],
+                        [
+                            2.317112973108043,
+                            48.892280875615874
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1883",
+            "libelle": "Av_de_Clichy",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 116.0,
+            "k": 19.08722,
+            "etat_trafic": "Pré-saturé",
+            "iu_nd_amont": "2039",
+            "libelle_nd_amont": "Av_de_Clichy-Legendre",
+            "iu_nd_aval": "2038",
+            "libelle_nd_aval": "Av_de_Clichy-Moines",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.32151146472324,
+                "lat": 48.88987043384873
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3227568237446317,
+                            48.88913473622273
+                        ],
+                        [
+                            2.3202661057018483,
+                            48.89060613147472
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1884",
+            "libelle": "Av_de_Clichy",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 124.0,
+            "k": 5.85944,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "2039",
+            "libelle_nd_amont": "Av_de_Clichy-Legendre",
+            "iu_nd_aval": "2040",
+            "libelle_nd_aval": "Av_de_Clichy-Jacquemont",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3231058300772793,
+                "lat": 48.888835613979126
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3226648915197075,
+                            48.889090652798565
+                        ],
+                        [
+                            2.323546768634851,
+                            48.888580575159686
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1885",
+            "libelle": "Av_de_Clichy",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 124.0,
+            "k": 2.14722,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "2040",
+            "libelle_nd_amont": "Av_de_Clichy-Jacquemont",
+            "iu_nd_aval": "2043",
+            "libelle_nd_aval": "Av_St_Ouen-Av_de_Clichy",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.32452505692961,
+                "lat": 48.88801470130636
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.323546768634851,
+                            48.888580575159686
+                        ],
+                        [
+                            2.325503345224369,
+                            48.887448827453035
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1887",
+            "libelle": "Av_de_St_Ouen",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2042",
+            "libelle_nd_amont": "Av_St_Ouen-Passage_St_Michel",
+            "iu_nd_aval": "2043",
+            "libelle_nd_aval": "Av_St_Ouen-Av_de_Clichy",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.325668094314913,
+                "lat": 48.88805639260819
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.325829601564697,
+                            48.88853942746491
+                        ],
+                        [
+                            2.3255065870651292,
+                            48.88757335775147
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1889",
+            "libelle": "Av_de_St_Ouen",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2044",
+            "libelle_nd_amont": "Av_St_Ouen-Fauvet",
+            "iu_nd_aval": "2042",
+            "libelle_nd_aval": "Av_St_Ouen-Passage_St_Michel",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3260218752631157,
+                "lat": 48.88908095140481
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3262141489615344,
+                            48.8896224753447
+                        ],
+                        [
+                            2.325829601564697,
+                            48.88853942746491
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1890",
+            "libelle": "Bd_Bessieres",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 283.0,
+            "k": 1.60222,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "2019",
+            "libelle_nd_amont": "Bd_Bessieres-Joncquiere",
+            "iu_nd_aval": "2018",
+            "libelle_nd_aval": "Bd_Bessieres-Dr_Brousse",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.317328836703757,
+                "lat": 48.89567269303523
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.316311491439344,
+                            48.89529631423232
+                        ],
+                        [
+                            2.318346181968169,
+                            48.89604907183814
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1891",
+            "libelle": "Av_de_St_Ouen",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2046",
+            "libelle_nd_amont": "Av_St_Ouen-Lamarck",
+            "iu_nd_aval": "2044",
+            "libelle_nd_aval": "Av_St_Ouen-Fauvet",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3265255209871247,
+                "lat": 48.890573752905844
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3268368930127146,
+                            48.89152503046699
+                        ],
+                        [
+                            2.3262141489615344,
+                            48.8896224753447
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "1892",
+            "libelle": "Av_de_St_Ouen",
+            "t_1h": "2023-05-05T09:00:00+00:00",
+            "q": 232.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "2044",
+            "libelle_nd_amont": "Av_St_Ouen-Fauvet",
+            "iu_nd_aval": "2046",
+            "libelle_nd_aval": "Av_St_Ouen-Lamarck",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3266489393588454,
+                "lat": 48.8904862815841
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3263424504568855,
+                            48.88954062104807
+                        ],
+                        [
+                            2.326955428260805,
+                            48.891431942120136
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "644",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-05T06:00:00+00:00",
+            "q": 805.0,
+            "k": 7.51389,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "12",
+            "libelle_nd_aval": "Hotel_Ville-Pt_Louis_Philippe",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3557800322892004,
+                "lat": 48.854126217273105
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356637133268179,
+                            48.85381415173079
+                        ],
+                        [
+                            2.354922931310223,
+                            48.854438282815416
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "644",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-05T05:00:00+00:00",
+            "q": 545.0,
+            "k": 2.47611,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "12",
+            "libelle_nd_aval": "Hotel_Ville-Pt_Louis_Philippe",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3557800322892004,
+                "lat": 48.854126217273105
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356637133268179,
+                            48.85381415173079
+                        ],
+                        [
+                            2.354922931310223,
+                            48.854438282815416
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "644",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-05T01:00:00+00:00",
+            "q": 199.0,
+            "k": 0.61889,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "12",
+            "libelle_nd_aval": "Hotel_Ville-Pt_Louis_Philippe",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3557800322892004,
+                "lat": 48.854126217273105
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356637133268179,
+                            48.85381415173079
+                        ],
+                        [
+                            2.354922931310223,
+                            48.854438282815416
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "644",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-05T00:00:00+00:00",
+            "q": 316.0,
+            "k": 1.15333,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "12",
+            "libelle_nd_aval": "Hotel_Ville-Pt_Louis_Philippe",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3557800322892004,
+                "lat": 48.854126217273105
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356637133268179,
+                            48.85381415173079
+                        ],
+                        [
+                            2.354922931310223,
+                            48.854438282815416
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "644",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-04T23:00:00+00:00",
+            "q": 528.0,
+            "k": 2.23778,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "12",
+            "libelle_nd_aval": "Hotel_Ville-Pt_Louis_Philippe",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3557800322892004,
+                "lat": 48.854126217273105
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356637133268179,
+                            48.85381415173079
+                        ],
+                        [
+                            2.354922931310223,
+                            48.854438282815416
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "645",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-05T07:00:00+00:00",
+            "q": 1318.0,
+            "k": 15.10778,
+            "etat_trafic": "Pré-saturé",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "223",
+            "libelle_nd_aval": "Quai_Celestins-Pt_Marie",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.357134781636957,
+                "lat": 48.85349463621741
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356539219934258,
+                            48.85371197135312
+                        ],
+                        [
+                            2.357730343339657,
+                            48.853277301081704
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "645",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-05T04:00:00+00:00",
+            "q": 601.0,
+            "k": 3.14389,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "223",
+            "libelle_nd_aval": "Quai_Celestins-Pt_Marie",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.357134781636957,
+                "lat": 48.85349463621741
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356539219934258,
+                            48.85371197135312
+                        ],
+                        [
+                            2.357730343339657,
+                            48.853277301081704
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "645",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-05T02:00:00+00:00",
+            "q": 338.0,
+            "k": 1.92389,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "223",
+            "libelle_nd_aval": "Quai_Celestins-Pt_Marie",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.357134781636957,
+                "lat": 48.85349463621741
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356539219934258,
+                            48.85371197135312
+                        ],
+                        [
+                            2.357730343339657,
+                            48.853277301081704
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "645",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-05T00:00:00+00:00",
+            "q": 837.0,
+            "k": 5.08111,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "223",
+            "libelle_nd_aval": "Quai_Celestins-Pt_Marie",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.357134781636957,
+                "lat": 48.85349463621741
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356539219934258,
+                            48.85371197135312
+                        ],
+                        [
+                            2.357730343339657,
+                            48.853277301081704
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "645",
+            "libelle": "Quai_Hotel_de_Ville",
+            "t_1h": "2023-05-04T23:00:00+00:00",
+            "q": 946.0,
+            "k": 6.00556,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "261",
+            "libelle_nd_amont": "Quai_Hotel_Ville-Sq_Schweitzer",
+            "iu_nd_aval": "223",
+            "libelle_nd_aval": "Quai_Celestins-Pt_Marie",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.357134781636957,
+                "lat": 48.85349463621741
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.356539219934258,
+                            48.85371197135312
+                        ],
+                        [
+                            2.357730343339657,
+                            48.853277301081704
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "647",
+            "libelle": "Fbg_St_Jacques",
+            "t_1h": "2023-05-05T05:00:00+00:00",
+            "q": null,
+            "k": 2.22444,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "359",
+            "libelle_nd_amont": "Bd_Port_Royal-St_Jacques",
+            "iu_nd_aval": "375",
+            "libelle_nd_aval": "Bd_Arago-Rue_du_Fbg_St_Jacques",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.338327444761754,
+                "lat": 48.836767860155646
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.339648700128224,
+                            48.838833944858365
+                        ],
+                        [
+                            2.337006189395285,
+                            48.83470177545293
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "647",
+            "libelle": "Fbg_St_Jacques",
+            "t_1h": "2023-05-05T03:00:00+00:00",
+            "q": null,
+            "k": 0.20778,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "359",
+            "libelle_nd_amont": "Bd_Port_Royal-St_Jacques",
+            "iu_nd_aval": "375",
+            "libelle_nd_aval": "Bd_Arago-Rue_du_Fbg_St_Jacques",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.338327444761754,
+                "lat": 48.836767860155646
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.339648700128224,
+                            48.838833944858365
+                        ],
+                        [
+                            2.337006189395285,
+                            48.83470177545293
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "647",
+            "libelle": "Fbg_St_Jacques",
+            "t_1h": "2023-05-05T02:00:00+00:00",
+            "q": null,
+            "k": 0.37945,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "359",
+            "libelle_nd_amont": "Bd_Port_Royal-St_Jacques",
+            "iu_nd_aval": "375",
+            "libelle_nd_aval": "Bd_Arago-Rue_du_Fbg_St_Jacques",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.338327444761754,
+                "lat": 48.836767860155646
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.339648700128224,
+                            48.838833944858365
+                        ],
+                        [
+                            2.337006189395285,
+                            48.83470177545293
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "647",
+            "libelle": "Fbg_St_Jacques",
+            "t_1h": "2023-05-05T00:00:00+00:00",
+            "q": null,
+            "k": 0.57333,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "359",
+            "libelle_nd_amont": "Bd_Port_Royal-St_Jacques",
+            "iu_nd_aval": "375",
+            "libelle_nd_aval": "Bd_Arago-Rue_du_Fbg_St_Jacques",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.338327444761754,
+                "lat": 48.836767860155646
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.339648700128224,
+                            48.838833944858365
+                        ],
+                        [
+                            2.337006189395285,
+                            48.83470177545293
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "647",
+            "libelle": "Fbg_St_Jacques",
+            "t_1h": "2023-05-04T23:00:00+00:00",
+            "q": null,
+            "k": 0.87556,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "359",
+            "libelle_nd_amont": "Bd_Port_Royal-St_Jacques",
+            "iu_nd_aval": "375",
+            "libelle_nd_aval": "Bd_Arago-Rue_du_Fbg_St_Jacques",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.338327444761754,
+                "lat": 48.836767860155646
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.339648700128224,
+                            48.838833944858365
+                        ],
+                        [
+                            2.337006189395285,
+                            48.83470177545293
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "648",
+            "libelle": "Av_Denf_Rocher-Av_Observatoire",
+            "t_1h": "2023-05-05T05:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "353",
+            "libelle_nd_amont": "Bd_Montparnasse-Bd_Port_Royal",
+            "iu_nd_aval": "376",
+            "libelle_nd_aval": "Av_Denfert_Rochereau-Cassini",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.336219061613148,
+                "lat": 48.838577422938
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.336561244473318,
+                            48.839647938610945
+                        ],
+                        [
+                            2.3364840302703405,
+                            48.83866129175605
+                        ],
+                        [
+                            2.3355199678488887,
+                            48.83766814682639
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "648",
+            "libelle": "Av_Denf_Rocher-Av_Observatoire",
+            "t_1h": "2023-05-05T03:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "353",
+            "libelle_nd_amont": "Bd_Montparnasse-Bd_Port_Royal",
+            "iu_nd_aval": "376",
+            "libelle_nd_aval": "Av_Denfert_Rochereau-Cassini",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.336219061613148,
+                "lat": 48.838577422938
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.336561244473318,
+                            48.839647938610945
+                        ],
+                        [
+                            2.3364840302703405,
+                            48.83866129175605
+                        ],
+                        [
+                            2.3355199678488887,
+                            48.83766814682639
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "648",
+            "libelle": "Av_Denf_Rocher-Av_Observatoire",
+            "t_1h": "2023-05-05T02:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "353",
+            "libelle_nd_amont": "Bd_Montparnasse-Bd_Port_Royal",
+            "iu_nd_aval": "376",
+            "libelle_nd_aval": "Av_Denfert_Rochereau-Cassini",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.336219061613148,
+                "lat": 48.838577422938
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.336561244473318,
+                            48.839647938610945
+                        ],
+                        [
+                            2.3364840302703405,
+                            48.83866129175605
+                        ],
+                        [
+                            2.3355199678488887,
+                            48.83766814682639
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "648",
+            "libelle": "Av_Denf_Rocher-Av_Observatoire",
+            "t_1h": "2023-05-04T23:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "353",
+            "libelle_nd_amont": "Bd_Montparnasse-Bd_Port_Royal",
+            "iu_nd_aval": "376",
+            "libelle_nd_aval": "Av_Denfert_Rochereau-Cassini",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.336219061613148,
+                "lat": 48.838577422938
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.336561244473318,
+                            48.839647938610945
+                        ],
+                        [
+                            2.3364840302703405,
+                            48.83866129175605
+                        ],
+                        [
+                            2.3355199678488887,
+                            48.83766814682639
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "649",
+            "libelle": "Av_Denf_Rocher-Av_Observatoire",
+            "t_1h": "2023-05-05T08:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "376",
+            "libelle_nd_amont": "Av_Denfert_Rochereau-Cassini",
+            "iu_nd_aval": "353",
+            "libelle_nd_aval": "Bd_Montparnasse-Bd_Port_Royal",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3363958953635757,
+                "lat": 48.838522399621176
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.33568924747954,
+                            48.837605339865604
+                        ],
+                        [
+                            2.3366888518798277,
+                            48.83865361391417
+                        ],
+                        [
+                            2.336737522304406,
+                            48.839596635983455
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "649",
+            "libelle": "Av_Denf_Rocher-Av_Observatoire",
+            "t_1h": "2023-05-05T04:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "376",
+            "libelle_nd_amont": "Av_Denfert_Rochereau-Cassini",
+            "iu_nd_aval": "353",
+            "libelle_nd_aval": "Bd_Montparnasse-Bd_Port_Royal",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3363958953635757,
+                "lat": 48.838522399621176
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.33568924747954,
+                            48.837605339865604
+                        ],
+                        [
+                            2.3366888518798277,
+                            48.83865361391417
+                        ],
+                        [
+                            2.336737522304406,
+                            48.839596635983455
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "649",
+            "libelle": "Av_Denf_Rocher-Av_Observatoire",
+            "t_1h": "2023-05-05T03:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "376",
+            "libelle_nd_amont": "Av_Denfert_Rochereau-Cassini",
+            "iu_nd_aval": "353",
+            "libelle_nd_aval": "Bd_Montparnasse-Bd_Port_Royal",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3363958953635757,
+                "lat": 48.838522399621176
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.33568924747954,
+                            48.837605339865604
+                        ],
+                        [
+                            2.3366888518798277,
+                            48.83865361391417
+                        ],
+                        [
+                            2.336737522304406,
+                            48.839596635983455
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "649",
+            "libelle": "Av_Denf_Rocher-Av_Observatoire",
+            "t_1h": "2023-05-05T02:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "376",
+            "libelle_nd_amont": "Av_Denfert_Rochereau-Cassini",
+            "iu_nd_aval": "353",
+            "libelle_nd_aval": "Bd_Montparnasse-Bd_Port_Royal",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3363958953635757,
+                "lat": 48.838522399621176
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.33568924747954,
+                            48.837605339865604
+                        ],
+                        [
+                            2.3366888518798277,
+                            48.83865361391417
+                        ],
+                        [
+                            2.336737522304406,
+                            48.839596635983455
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "650",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T08:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "378",
+            "libelle_nd_amont": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "iu_nd_aval": "377",
+            "libelle_nd_aval": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3332475951126614,
+                "lat": 48.83532706389313
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.334003346020653,
+                            48.836105710849964
+                        ],
+                        [
+                            2.3324918442046694,
+                            48.83454841693631
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "650",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T06:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "378",
+            "libelle_nd_amont": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "iu_nd_aval": "377",
+            "libelle_nd_aval": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3332475951126614,
+                "lat": 48.83532706389313
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.334003346020653,
+                            48.836105710849964
+                        ],
+                        [
+                            2.3324918442046694,
+                            48.83454841693631
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "650",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T04:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "378",
+            "libelle_nd_amont": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "iu_nd_aval": "377",
+            "libelle_nd_aval": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3332475951126614,
+                "lat": 48.83532706389313
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.334003346020653,
+                            48.836105710849964
+                        ],
+                        [
+                            2.3324918442046694,
+                            48.83454841693631
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "650",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T01:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "378",
+            "libelle_nd_amont": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "iu_nd_aval": "377",
+            "libelle_nd_aval": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3332475951126614,
+                "lat": 48.83532706389313
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.334003346020653,
+                            48.836105710849964
+                        ],
+                        [
+                            2.3324918442046694,
+                            48.83454841693631
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "650",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-04T23:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "378",
+            "libelle_nd_amont": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "iu_nd_aval": "377",
+            "libelle_nd_aval": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3332475951126614,
+                "lat": 48.83532706389313
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.334003346020653,
+                            48.836105710849964
+                        ],
+                        [
+                            2.3324918442046694,
+                            48.83454841693631
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T08:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T06:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T05:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T04:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T03:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T02:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T01:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-05T00:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "651",
+            "libelle": "Av_Denfert_Rochereau",
+            "t_1h": "2023-05-04T23:00:00+00:00",
+            "q": null,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "377",
+            "libelle_nd_amont": "Pl_D_Roche-Bd_Raspail-Bd_Arago",
+            "iu_nd_aval": "378",
+            "libelle_nd_aval": "Av_Denf_Roch-St_Vincent_de_Paul",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.333447891118002,
+                "lat": 48.83525465683582
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3327072103516806,
+                            48.83447781288329
+                        ],
+                        [
+                            2.334188571884323,
+                            48.83603150078835
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "652",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T08:00:00+00:00",
+            "q": 456.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "380",
+            "libelle_nd_amont": "Bd_Raspail-Boissonade",
+            "iu_nd_aval": "379",
+            "libelle_nd_aval": "Bd_Raspail-Schoelcher",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331211516820524,
+                "lat": 48.837385831925204
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3310145909456326,
+                            48.83789604445558
+                        ],
+                        [
+                            2.3314084426954147,
+                            48.83687561939482
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "652",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T05:00:00+00:00",
+            "q": 143.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "380",
+            "libelle_nd_amont": "Bd_Raspail-Boissonade",
+            "iu_nd_aval": "379",
+            "libelle_nd_aval": "Bd_Raspail-Schoelcher",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331211516820524,
+                "lat": 48.837385831925204
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3310145909456326,
+                            48.83789604445558
+                        ],
+                        [
+                            2.3314084426954147,
+                            48.83687561939482
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "652",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T02:00:00+00:00",
+            "q": 101.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "380",
+            "libelle_nd_amont": "Bd_Raspail-Boissonade",
+            "iu_nd_aval": "379",
+            "libelle_nd_aval": "Bd_Raspail-Schoelcher",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331211516820524,
+                "lat": 48.837385831925204
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3310145909456326,
+                            48.83789604445558
+                        ],
+                        [
+                            2.3314084426954147,
+                            48.83687561939482
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "652",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T01:00:00+00:00",
+            "q": 140.0,
+            "k": null,
+            "etat_trafic": "Inconnu",
+            "iu_nd_amont": "380",
+            "libelle_nd_amont": "Bd_Raspail-Boissonade",
+            "iu_nd_aval": "379",
+            "libelle_nd_aval": "Bd_Raspail-Schoelcher",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331211516820524,
+                "lat": 48.837385831925204
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3310145909456326,
+                            48.83789604445558
+                        ],
+                        [
+                            2.3314084426954147,
+                            48.83687561939482
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "653",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T08:00:00+00:00",
+            "q": 702.0,
+            "k": 8.33111,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "379",
+            "libelle_nd_amont": "Bd_Raspail-Schoelcher",
+            "iu_nd_aval": "380",
+            "libelle_nd_aval": "Bd_Raspail-Boissonade",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331391613228262,
+                "lat": 48.83741477762035
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.331590826829136,
+                            48.8369066506482
+                        ],
+                        [
+                            2.3311923996273873,
+                            48.837922904592496
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "653",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T05:00:00+00:00",
+            "q": 324.0,
+            "k": 4.45778,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "379",
+            "libelle_nd_amont": "Bd_Raspail-Schoelcher",
+            "iu_nd_aval": "380",
+            "libelle_nd_aval": "Bd_Raspail-Boissonade",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331391613228262,
+                "lat": 48.83741477762035
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.331590826829136,
+                            48.8369066506482
+                        ],
+                        [
+                            2.3311923996273873,
+                            48.837922904592496
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "653",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T03:00:00+00:00",
+            "q": 61.0,
+            "k": 0.80278,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "379",
+            "libelle_nd_amont": "Bd_Raspail-Schoelcher",
+            "iu_nd_aval": "380",
+            "libelle_nd_aval": "Bd_Raspail-Boissonade",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331391613228262,
+                "lat": 48.83741477762035
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.331590826829136,
+                            48.8369066506482
+                        ],
+                        [
+                            2.3311923996273873,
+                            48.837922904592496
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "653",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T01:00:00+00:00",
+            "q": 96.0,
+            "k": 1.30723,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "379",
+            "libelle_nd_amont": "Bd_Raspail-Schoelcher",
+            "iu_nd_aval": "380",
+            "libelle_nd_aval": "Bd_Raspail-Boissonade",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331391613228262,
+                "lat": 48.83741477762035
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.331590826829136,
+                            48.8369066506482
+                        ],
+                        [
+                            2.3311923996273873,
+                            48.837922904592496
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "653",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-04T23:00:00+00:00",
+            "q": 249.0,
+            "k": 2.68278,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "379",
+            "libelle_nd_amont": "Bd_Raspail-Schoelcher",
+            "iu_nd_aval": "380",
+            "libelle_nd_aval": "Bd_Raspail-Boissonade",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.331391613228262,
+                "lat": 48.83741477762035
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.331590826829136,
+                            48.8369066506482
+                        ],
+                        [
+                            2.3311923996273873,
+                            48.837922904592496
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        },
+        {
+            "iu_ac": "654",
+            "libelle": "Bd_Raspail",
+            "t_1h": "2023-05-05T07:00:00+00:00",
+            "q": 363.0,
+            "k": 3.75167,
+            "etat_trafic": "Fluide",
+            "iu_nd_amont": "379",
+            "libelle_nd_amont": "Bd_Raspail-Schoelcher",
+            "iu_nd_aval": "381",
+            "libelle_nd_aval": "Pl_Denfert_Rochereau",
+            "etat_barre": "Invalide",
+            "date_debut": "1996-10-03",
+            "date_fin": "2023-01-01",
+            "geo_point_2d": {
+                "lon": 2.3317521014820346,
+                "lat": 48.83596051045598
+            },
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            2.3314084426954147,
+                            48.83687561939482
+                        ],
+                        [
+                            2.3320957602686545,
+                            48.83504540151715
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            }
+        }
+    ]
+}

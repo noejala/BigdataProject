@@ -37,7 +37,7 @@ def convert_json_to_parquet(json_file_path, output_directory, parquet_file_name)
         print(f"Failed to process the file: {e}")
 
 # Define the absolute paths correctly
-base_path = '/home/julien_tournier/airflow_projects/BigdataProjectNo-'
+base_path = '../..'
 json_file_path = os.path.join(base_path, "dags/lib/datalake/raw/construction/construct_data.json")
 output_directory = os.path.join(base_path, "dags/lib/datalake/formatted/construction")
 parquet_file_name = "construction_data.snappy.parquet"

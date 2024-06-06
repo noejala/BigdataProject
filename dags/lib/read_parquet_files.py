@@ -1,8 +1,5 @@
 import pandas as pd
 
-# Définir les chemins des fichiers Parquet
-construction_parquet_path = "../../dags/lib/datalake/formatted/construction/construction_data.snappy.parquet"
-traffic_parquet_path = "../../dags/lib/datalake/formatted/traffic/traffic_data.snappy.parquet"
 
 def read_parquet_file(parquet_file_path):
     try:
@@ -12,6 +9,10 @@ def read_parquet_file(parquet_file_path):
     except Exception as e:
         print(f"Erreur lors de la lecture du fichier Parquet {parquet_file_path}: {e}")
 
+
 if __name__ == "__main__":
+    construction_parquet_path = "../../dags/lib/datalake/formatted/construction/construction_data.snappy.parquet"
+    traffic_parquet_path = "../../dags/lib/datalake/formatted/traffic/traffic_data.snappy.parquet"
+
     read_parquet_file(construction_parquet_path)
     read_parquet_file(traffic_parquet_path)

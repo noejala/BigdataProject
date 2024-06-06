@@ -29,8 +29,8 @@ def convert_json_to_parquet(json_file_path, output_directory, parquet_file_name)
     try:
         with open(json_file_path, 'r') as f:
             data = json.load(f)  # Load the JSON from the file
-            data = flatten_json(data['results'])  # Flatten the JSON structure, assuming 'results' is the key of interest
-            df = pd.DataFrame(data, index=[0])
+            flattened_data = [flatten_json(item) for item in data['results']]  # Flatten each item in 'results'
+            df = pd.DataFrame(flattened_data)
             df.to_parquet(parquet_file_path, compression='snappy')
             print(f"Data saved to Parquet file successfully at {parquet_file_path}")
     except Exception as e:

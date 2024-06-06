@@ -1,46 +1,49 @@
 import os
-from pyspark.sql import SQLContext
+from pyspark.sql import SparkSession
 
-HOME = os.path.expanduser('~')
-DATALAKE_ROOT_FOLDER = HOME + "/datalake/"
+def merge_parquet_files():
+    # Initialiser une session Spark
+    spark = SparkSession.builder \
+        .appName("Combine Belib' Data") \
+        .getOrCreate()
 
+    # Chemins des fichiers Parquet d'entrée
+    static_data_path = '/Users/noejalabert/airflow/dags/lib/datalake/formatted/belibdonnees/belib_static_data.parquet'
+    realtime_data_path = '/Users/noejalabert/airflow/dags/lib/datalake/formatted/belibtempsreel/belib_realtime_data.parquet'
 
-def combine_data(current_day):
-    RATING_PATH = DATALAKE_ROOT_FOLDER + "formatted/imdb/MovieRating/" + current_day + "/"
-    USAGE_OUTPUT_FOLDER_STATS = DATALAKE_ROOT_FOLDER + "usage/movieAnalysis/MovieStatistics/" + current_day + "/"
-    USAGE_OUTPUT_FOLDER_BEST = DATALAKE_ROOT_FOLDER + "usage/movieAnalysis/MovieTop10/" + current_day + "/"
-    if not os.path.exists(USAGE_OUTPUT_FOLDER_STATS):
-        os.makedirs(USAGE_OUTPUT_FOLDER_STATS)
-    if not os.path.exists(USAGE_OUTPUT_FOLDER_BEST):
-        os.makedirs(USAGE_OUTPUT_FOLDER_BEST)
+    # Lire les fichiers Parquet
+    static_df = spark.read.parquet(static_data_path)
+    realtime_df = spark.read.parquet(realtime_data_path)
 
-    from pyspark import SparkContext
+    # Afficher les colonnes pour chaque DataFrame
+    print("Static DataFrame Columns:", static_df.columns)
+    print("Realtime DataFrame Columns:", realtime_df.columns)
 
-    sc = SparkContext(appName="CombineData")
-    sqlContext = SQLContext(sc)
-    df_ratings = sqlContext.read.parquet(RATING_PATH)
-    df_ratings.registerTempTable("ratings")
+    # Renommer les colonnes conflictuelles dans le DataFrame en temps réel
+    realtime_df = realtime_df \
+        .withColumnRenamed('adresse_station', 'realtime_adresse_station') \
+        .withColumnRenamed('arrondissement', 'realtime_arrondissement') \
+        .withColumnRenamed('code_insee_commune', 'realtime_code_insee_commune') \
+        .withColumnRenamed('coordonneesxy', 'realtime_coordonneesxy') \
+        .withColumnRenamed('statut_pdc', 'realtime_statut_pdc')
 
-    # Check content of the DataFrame df_ratings:
-    print(df_ratings.show())
+    # Fusionner les DataFrames sur les colonnes 'id_pdc_local' et 'id_pdc'
+    merged_df = static_df.join(realtime_df, static_df.id_pdc_local == realtime_df.id_pdc, how='inner')
 
-    stats_df = sqlContext.sql("SELECT AVG(averageRating) AS avg_rating,"
-                              "       MAX(averageRating) AS max_rating,"
-                              "       MIN(averageRating) AS min_rating,"
-                              "       COUNT(averageRating) AS count_rating"
-                              "    FROM ratings LIMIT 10")
-    top10_df = sqlContext.sql("SELECT tconst, averageRating"
-                              "    FROM ratings"
-                              "    WHERE numVotes > 50000 "
-                              "    ORDER BY averageRating DESC"
-                              "    LIMIT 10")
+    # Chemin du fichier Parquet de sortie
+    output_dir = '/Users/noejalabert/airflow/dags/lib/datalake/combined'
+    output_path = os.path.join(output_dir, 'combined_belib_data.parquet')
 
-    # Check content of the DataFrame stats_df and save it:
-    print(stats_df.show())
-    stats_df.write.save(USAGE_OUTPUT_FOLDER_STATS + "res.snappy.parquet", mode="overwrite")
+    # Créer le répertoire de sortie s'il n'existe pas
+    os.makedirs(output_dir, exist_ok=True)
 
-    # Check content of the DataFrame top10_df  and save it:
-    print(top10_df.show())
-    stats_df.write.save(USAGE_OUTPUT_FOLDER_BEST + "res.snappy.parquet", mode="overwrite")
+    # Écrire le DataFrame fusionné en Parquet avec l'option 'overwrite'
+    merged_df.write.mode('overwrite').parquet(output_path)
 
+    print(f"Data successfully merged and written to Parquet file at {output_path}")
 
+    # Arrêter la session Spark
+    spark.stop()
+
+if __name__ == "__main__":
+    merge_parquet_files()

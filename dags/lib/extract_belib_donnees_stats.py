@@ -19,7 +19,7 @@ def fetch_static_data():
 
 def save_data_to_file(data, filename='belib_static_data.json'):
     # Définir le chemin de base à partir du script actuel pour remonter jusqu'à la racine du projet
-    base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
+    base_path = os.path.abspath(os.path.join('../..'))
 
     # Construire le chemin vers le dossier 'belib_donnees'
     destination_path = os.path.join(base_path, 'dags/lib/datalake/raw/belibdonnees')

@@ -7,9 +7,13 @@ def merge_parquet_files():
         .appName("Combine Belib' Data") \
         .getOrCreate()
 
+
+    # Définir le chemin de base à partir du script actuel pour remonter jusqu'à la racine du projet
+    base_path = os.path.abspath(os.path.join('../..'))
+
     # Chemins des fichiers Parquet d'entrée
-    static_data_path = '/Users/noejalabert/airflow/dags/lib/datalake/formatted/belibdonnees/belib_static_data.parquet'
-    realtime_data_path = '/Users/noejalabert/airflow/dags/lib/datalake/formatted/belibtempsreel/belib_realtime_data.parquet'
+    static_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibdonnees/belib_static_data.parquet')
+    realtime_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibtempsreel/belib_realtime_data.parquet')
 
     # Lire les fichiers Parquet
     static_df = spark.read.parquet(static_data_path)
@@ -31,7 +35,7 @@ def merge_parquet_files():
     merged_df = static_df.join(realtime_df, static_df.id_pdc_local == realtime_df.id_pdc, how='inner')
 
     # Chemin du fichier Parquet de sortie
-    output_dir = '/Users/noejalabert/airflow/dags/lib/datalake/combined'
+    output_dir = os.path.join(base_path,'dags/lib/datalake/combined')
     output_path = os.path.join(output_dir, 'combined_belib_data.parquet')
 
     # Créer le répertoire de sortie s'il n'existe pas

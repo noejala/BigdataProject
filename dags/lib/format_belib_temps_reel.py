@@ -9,8 +9,11 @@ def read_raw_data(file_path):
         data = json.load(file)
     return data
 
+# Définir le chemin de base à partir du script actuel pour remonter jusqu'à la racine du projet
+base_path = os.path.abspath(os.path.join('../..'))
+
 # Chemin absolu du fichier JSON brut
-raw_file_path = '/Users/noejalabert/airflow/dags/lib/datalake/raw/belibtempsreel/belib_realtime_data.json'
+raw_file_path = os.path.join(base_path,'dags/lib/datalake/raw/belibtempsreel/belib_realtime_data.json')
 print(f"Raw file path: {raw_file_path}")
 
 # Vérifier si le fichier existe avant de le lire
@@ -35,7 +38,7 @@ df = spark.createDataFrame(records)
 df = df.coalesce(1)
 
 # Définir le chemin du fichier Parquet de sortie
-formatted_output_dir = '/Users/noejalabert/airflow/dags/lib/datalake/formatted/belibtempsreel'
+formatted_output_dir = os.path.join(base_path,'dags/lib/datalake/formatted/belibtempsreel')
 formatted_output_path = os.path.join(formatted_output_dir, 'belib_realtime_data.parquet')
 print(f"Formatted output directory: {formatted_output_dir}")
 print(f"Formatted output path: {formatted_output_path}")

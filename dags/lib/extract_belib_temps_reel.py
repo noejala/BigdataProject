@@ -19,7 +19,7 @@ def fetch_realtime_data():
 
 def save_data_to_file(data, filename='belib_realtime_data.json'):
     # Définir le chemin de base à partir du script actuel pour remonter jusqu'à la racine du projet
-    base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
+    base_path = os.path.abspath(os.path.join('../..'))
 
     # Construire le chemin vers le dossier 'construction'
     destination_path = os.path.join(base_path, 'dags/lib/datalake/raw/belibtempsreel')

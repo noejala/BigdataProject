@@ -292,3 +292,10 @@
 [2024-06-07T17:16:14.379+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:16:14.379+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-07T17:16:14.389+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:16:14.389+0200] {dag.py:3954} INFO - Setting next_dagrun for example_short_circuit_operator to 2024-06-06 00:00:00+00:00, run_after=2024-06-07 00:00:00+00:00
 [2024-06-07T17:16:14.397+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.095 seconds
+[2024-06-07T17:17:50.575+0200] {processor.py:161} INFO - Started process (PID=36808) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-06-07T17:17:50.576+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2024-06-07T17:17:50.576+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:50.576+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-06-07T17:17:50.589+0200] {processor.py:840} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-06-07T17:17:50.637+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:50.636+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-07T17:17:50.643+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:50.643+0200] {dag.py:3954} INFO - Setting next_dagrun for example_short_circuit_operator to 2024-06-06 00:00:00+00:00, run_after=2024-06-07 00:00:00+00:00
+[2024-06-07T17:17:50.651+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.077 seconds

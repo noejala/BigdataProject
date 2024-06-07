@@ -292,3 +292,10 @@
 [2024-06-07T17:16:16.273+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:16:16.272+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-07T17:16:16.280+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:16:16.280+0200] {dag.py:3954} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-06-06 00:00:00+00:00, run_after=2024-06-07 00:00:00+00:00
 [2024-06-07T17:16:16.289+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.089 seconds
+[2024-06-07T17:17:52.803+0200] {processor.py:161} INFO - Started process (PID=36809) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-06-07T17:17:52.804+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-06-07T17:17:52.804+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:52.804+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-06-07T17:17:52.840+0200] {processor.py:840} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-06-07T17:17:52.941+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:52.940+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-07T17:17:52.956+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:52.956+0200] {dag.py:3954} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-06-06 00:00:00+00:00, run_after=2024-06-07 00:00:00+00:00
+[2024-06-07T17:17:52.975+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.174 seconds

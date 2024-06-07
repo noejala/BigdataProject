@@ -292,3 +292,10 @@
 [2024-06-07T17:15:31.665+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:15:31.665+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-07T17:15:31.669+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:15:31.669+0200] {dag.py:3954} INFO - Setting next_dagrun for My_first_dag to None, run_after=None
 [2024-06-07T17:15:31.677+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_first_dag.py took 0.078 seconds
+[2024-06-07T17:17:06.638+0200] {processor.py:161} INFO - Started process (PID=36703) to work on /Users/noejalabert/airflow/dags/my_first_dag.py
+[2024-06-07T17:17:06.640+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_first_dag.py for tasks to queue
+[2024-06-07T17:17:06.640+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:06.640+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_first_dag.py
+[2024-06-07T17:17:06.652+0200] {processor.py:840} INFO - DAG(s) 'My_first_dag' retrieved from /Users/noejalabert/airflow/dags/my_first_dag.py
+[2024-06-07T17:17:06.701+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:06.701+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-07T17:17:06.705+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:17:06.705+0200] {dag.py:3954} INFO - Setting next_dagrun for My_first_dag to None, run_after=None
+[2024-06-07T17:17:06.713+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_first_dag.py took 0.076 seconds

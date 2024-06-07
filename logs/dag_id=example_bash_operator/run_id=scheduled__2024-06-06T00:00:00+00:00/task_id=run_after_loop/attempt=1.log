@@ -1,0 +1,44 @@
+[2024-06-07T16:09:22.608+0200] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-06-07T16:09:22.621+0200] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: example_bash_operator.run_after_loop scheduled__2024-06-06T00:00:00+00:00 [queued]>
+[2024-06-07T16:09:22.624+0200] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: example_bash_operator.run_after_loop scheduled__2024-06-06T00:00:00+00:00 [queued]>
+[2024-06-07T16:09:22.624+0200] {taskinstance.py:2303} INFO - Starting attempt 1 of 1
+[2024-06-07T16:09:22.629+0200] {taskinstance.py:2327} INFO - Executing <Task(BashOperator): run_after_loop> on 2024-06-06 00:00:00+00:00
+[2024-06-07T16:09:22.636+0200] {standard_task_runner.py:63} INFO - Started process 31652 to run task
+[2024-06-07T16:09:22.640+0200] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'example_bash_operator', 'run_after_loop', 'scheduled__2024-06-06T00:00:00+00:00', '--job-id', '58', '--raw', '--subdir', '/Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py', '--cfg-path', '/var/folders/lz/gv7z_f1x3156jvrgkgylt68w0000gn/T/tmpykdgfh7p']
+[2024-06-07T16:09:22.642+0200] {standard_task_runner.py:91} INFO - Job 58: Subtask run_after_loop
+[2024-06-07T16:09:22.663+0200] {task_command.py:426} INFO - Running <TaskInstance: example_bash_operator.run_after_loop scheduled__2024-06-06T00:00:00+00:00 [running]> on host macbook-air-de-noe.local
+[2024-06-07T16:09:22.690+0200] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='example_bash_operator' AIRFLOW_CTX_TASK_ID='run_after_loop' AIRFLOW_CTX_EXECUTION_DATE='2024-06-06T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-06-06T00:00:00+00:00'
+[2024-06-07T16:09:22.691+0200] {taskinstance.py:430} INFO - ::endgroup::
+[2024-06-07T16:09:22.692+0200] {subprocess.py:63} INFO - Tmp dir root location: /var/folders/lz/gv7z_f1x3156jvrgkgylt68w0000gn/T
+[2024-06-07T16:09:22.692+0200] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', "ls -alh --color=always / && echo https://airflow.apache.org/  && echo 'some <code>html</code>'"]
+[2024-06-07T16:09:22.700+0200] {subprocess.py:86} INFO - Output:
+[2024-06-07T16:09:22.722+0200] {subprocess.py:93} INFO - total 10
+[2024-06-07T16:09:22.723+0200] {subprocess.py:93} INFO - drwxr-xr-x  20 root  wheel   640B 20 oct  2023 [34m.[39;49m[0m
+[2024-06-07T16:09:22.723+0200] {subprocess.py:93} INFO - drwxr-xr-x  20 root  wheel   640B 20 oct  2023 [34m..[39;49m[0m
+[2024-06-07T16:09:22.723+0200] {subprocess.py:93} INFO - lrwxr-xr-x   1 root  admin    36B 20 oct  2023 [35m.VolumeIcon.icns[39;49m[0m -> System/Volumes/Data/.VolumeIcon.icns
+[2024-06-07T16:09:22.723+0200] {subprocess.py:93} INFO - ----------   1 root  admin     0B 20 oct  2023 .file
+[2024-06-07T16:09:22.723+0200] {subprocess.py:93} INFO - drwxr-xr-x   2 root  wheel    64B 20 oct  2023 [34m.vol[39;49m[0m
+[2024-06-07T16:09:22.724+0200] {subprocess.py:93} INFO - drwxrwxr-x  46 root  admin   1,4K  7 jui 10:25 [34mApplications[39;49m[0m
+[2024-06-07T16:09:22.724+0200] {subprocess.py:93} INFO - drwxr-xr-x  69 root  wheel   2,2K 26 fév 15:21 [34mLibrary[39;49m[0m
+[2024-06-07T16:09:22.724+0200] {subprocess.py:93} INFO - drwxr-xr-x@ 10 root  wheel   320B 20 oct  2023 [34mSystem[39;49m[0m
+[2024-06-07T16:09:22.724+0200] {subprocess.py:93} INFO - drwxr-xr-x   5 root  admin   160B  4 nov  2023 [34mUsers[39;49m[0m
+[2024-06-07T16:09:22.724+0200] {subprocess.py:93} INFO - drwxr-xr-x   4 root  wheel   128B  5 jui 23:56 [34mVolumes[39;49m[0m
+[2024-06-07T16:09:22.725+0200] {subprocess.py:93} INFO - drwxr-xr-x@ 39 root  wheel   1,2K 20 oct  2023 [34mbin[39;49m[0m
+[2024-06-07T16:09:22.725+0200] {subprocess.py:93} INFO - drwxr-xr-x   2 root  wheel    64B 11 jul  2023 [34mcores[39;49m[0m
+[2024-06-07T16:09:22.725+0200] {subprocess.py:93} INFO - dr-xr-xr-x   4 root  wheel   4,7K  5 jui 16:30 [34mdev[39;49m[0m
+[2024-06-07T16:09:22.725+0200] {subprocess.py:93} INFO - lrwxr-xr-x@  1 root  wheel    11B 20 oct  2023 [35metc[39;49m[0m -> private/etc
+[2024-06-07T16:09:22.725+0200] {subprocess.py:93} INFO - lrwxr-xr-x   1 root  wheel    25B  5 jui 16:30 [35mhome[39;49m[0m -> /System/Volumes/Data/home
+[2024-06-07T16:09:22.726+0200] {subprocess.py:93} INFO - drwxr-xr-x   2 root  wheel    64B 11 jul  2023 [34mopt[39;49m[0m
+[2024-06-07T16:09:22.726+0200] {subprocess.py:93} INFO - drwxr-xr-x   6 root  wheel   192B  5 jui 16:30 [34mprivate[39;49m[0m
+[2024-06-07T16:09:22.726+0200] {subprocess.py:93} INFO - drwxr-xr-x@ 64 root  wheel   2,0K 20 oct  2023 [34msbin[39;49m[0m
+[2024-06-07T16:09:22.726+0200] {subprocess.py:93} INFO - lrwxr-xr-x@  1 root  wheel    11B 20 oct  2023 [35mtmp[39;49m[0m -> private/tmp
+[2024-06-07T16:09:22.726+0200] {subprocess.py:93} INFO - drwxr-xr-x@ 11 root  wheel   352B 20 oct  2023 [34musr[39;49m[0m
+[2024-06-07T16:09:22.726+0200] {subprocess.py:93} INFO - lrwxr-xr-x@  1 root  wheel    11B 20 oct  2023 [35mvar[39;49m[0m -> private/var
+[2024-06-07T16:09:22.727+0200] {subprocess.py:93} INFO - https://airflow.apache.org/
+[2024-06-07T16:09:22.727+0200] {subprocess.py:93} INFO - some <code>html</code>
+[2024-06-07T16:09:22.727+0200] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-06-07T16:09:22.727+0200] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-06-07T16:09:22.737+0200] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=example_bash_operator, task_id=run_after_loop, execution_date=20240606T000000, start_date=20240607T140922, end_date=20240607T140922
+[2024-06-07T16:09:22.746+0200] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-06-07T16:09:22.753+0200] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-06-07T16:09:22.754+0200] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -564,12 +564,6 @@
         "id_pdc": "FR*V75*EPX17*14*5"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*23*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:25:57+00:00",
-        "id_pdc": "FR*V75*EPX15*23*4"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9020*01*3",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:33:13+00:00",
@@ -612,16 +606,16 @@
         "id_pdc": "FR*V75*EPX08*07*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX06*02*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:42:53+00:00",
-        "id_pdc": "FR*V75*EPX06*02*1"
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*02*1",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:49:44+00:00",
+        "id_pdc": "FR*V75*EPX08*02*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX19*02*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:45:05+00:00",
-        "id_pdc": "FR*V75*EPX19*02*1"
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*23*4",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:59:04+00:00",
+        "id_pdc": "FR*V75*EPX15*23*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*08*3",
@@ -630,10 +624,16 @@
         "id_pdc": "FR*V75*EPX14*08*3"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*02*1",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:49:44+00:00",
-        "id_pdc": "FR*V75*EPX08*02*1"
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX19*02*1",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:45:05+00:00",
+        "id_pdc": "FR*V75*EPX19*02*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX06*02*1",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:42:53+00:00",
+        "id_pdc": "FR*V75*EPX06*02*1"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*03*3",
@@ -1290,16 +1290,16 @@
         "id_pdc": "FR*V75*EPX18*13*2"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX05*11*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:51:43+00:00",
-        "id_pdc": "FR*V75*EPX05*11*3"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*36*4",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:53:01+00:00",
         "id_pdc": "FR*V75*EPX15*36*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX05*11*3",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:55:44+00:00",
+        "id_pdc": "FR*V75*EPX05*11*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*09*4",
@@ -1776,12 +1776,6 @@
         "id_pdc": "FR*V75*EPX14*05*6"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9016*08*2",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T12:43:49+00:00",
-        "id_pdc": "FR*V75*E9016*08*2"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX13*07*4",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T12:40:29+00:00",
@@ -1824,16 +1818,28 @@
         "id_pdc": "FR*V75*EPX04*09*5"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*25*3",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:25:00+00:00",
-        "id_pdc": "FR*V75*EPX16*25*3"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*08*4",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T13:32:58+00:00",
         "id_pdc": "FR*V75*EPX15*08*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9016*08*2",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:57:59+00:00",
+        "id_pdc": "FR*V75*E9016*08*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*16*4",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:56:27+00:00",
+        "id_pdc": "FR*V75*EPX12*16*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*27*2",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:54:52+00:00",
+        "id_pdc": "FR*V75*EPX16*27*2"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*05*1",
@@ -1848,16 +1854,10 @@
         "id_pdc": "FR*V75*EPX19*11*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*16*4",
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*25*3",
         "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:46:00+00:00",
-        "id_pdc": "FR*V75*EPX12*16*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*27*2",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:54:52+00:00",
-        "id_pdc": "FR*V75*EPX16*27*2"
+        "last_updated": "2024-06-07T14:00:43+00:00",
+        "id_pdc": "FR*V75*EPX16*25*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*09*3",
@@ -2292,18 +2292,6 @@
         "id_pdc": "FR*V75*EPX08*21*6"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*25*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:25:00+00:00",
-        "id_pdc": "FR*V75*EPX16*25*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*03*5",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:17:27+00:00",
-        "id_pdc": "FR*V75*EPX17*03*5"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX19*03*4",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:22:10+00:00",
@@ -2346,16 +2334,22 @@
         "id_pdc": "FR*V75*EHBSAI*AUG*02*1"
     },
     {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*15*2",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:55:04+00:00",
+        "id_pdc": "FR*V75*EPX16*15*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*25*4",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:58:22+00:00",
+        "id_pdc": "FR*V75*EPX16*25*4"
+    },
+    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*03*3",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T13:47:48+00:00",
         "id_pdc": "FR*V75*EPX15*03*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*12*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:49:19+00:00",
-        "id_pdc": "FR*V75*EPX09*12*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*10*1",
@@ -2364,16 +2358,22 @@
         "id_pdc": "FR*V75*EPX14*10*1"
     },
     {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*12*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:49:19+00:00",
+        "id_pdc": "FR*V75*EPX09*12*3"
+    },
+    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*12*2",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:51:16+00:00",
         "id_pdc": "FR*V75*EPX16*12*2"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*15*2",
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*03*5",
         "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:55:04+00:00",
-        "id_pdc": "FR*V75*EPX16*15*2"
+        "last_updated": "2024-06-07T14:00:22+00:00",
+        "id_pdc": "FR*V75*EPX17*03*5"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*09*1",
@@ -3108,12 +3108,6 @@
         "id_pdc": "FR*V75*EPX10*02*5"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*21*3",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:35:18+00:00",
-        "id_pdc": "FR*V75*EPX15*21*3"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*07*6",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:36:06+00:00",
@@ -3130,6 +3124,12 @@
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T13:52:49+00:00",
         "id_pdc": "FR*V75*EPX03*03*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*21*3",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:35:18+00:00",
+        "id_pdc": "FR*V75*EPX15*21*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX19*11*2",
@@ -3232,6 +3232,30 @@
         "statut_pdc": "Inconnu",
         "last_updated": "2024-05-24T02:30:06+00:00",
         "id_pdc": "FR*V75*EPX05*02*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*11*5",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T05:38:34+00:00",
+        "id_pdc": "FR*V75*EPX20*11*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*10*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T05:06:38+00:00",
+        "id_pdc": "FR*V75*EPX14*10*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX11*08*4",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T05:24:56+00:00",
+        "id_pdc": "FR*V75*EPX11*08*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*08*2",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T04:54:32+00:00",
+        "id_pdc": "FR*V75*EPX15*08*2"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*16*5",
@@ -3378,156 +3402,6 @@
         "id_pdc": "FR*V75*EHBSAE*PDA*04*2"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*08*2",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T04:54:32+00:00",
-        "id_pdc": "FR*V75*EPX15*08*2"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*11*5",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T05:38:34+00:00",
-        "id_pdc": "FR*V75*EPX20*11*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*10*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T05:06:38+00:00",
-        "id_pdc": "FR*V75*EPX14*10*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX11*08*4",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T05:24:56+00:00",
-        "id_pdc": "FR*V75*EPX11*08*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX05*13*6",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T06:03:58+00:00",
-        "id_pdc": "FR*V75*EPX05*13*6"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*07*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T06:11:21+00:00",
-        "id_pdc": "FR*V75*EPX12*07*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*12*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T06:06:50+00:00",
-        "id_pdc": "FR*V75*EPX14*12*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*08*2",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T06:58:05+00:00",
-        "id_pdc": "FR*V75*EPX20*08*2"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*06*5",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T08:05:29+00:00",
-        "id_pdc": "FR*V75*EPX20*06*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EHBSAE*PDA*05*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T07:18:29+00:00",
-        "id_pdc": "FR*V75*EHBSAE*PDA*05*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9013*03*2",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T07:24:20+00:00",
-        "id_pdc": "FR*V75*E9013*03*2"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*12*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T07:53:34+00:00",
-        "id_pdc": "FR*V75*EPX07*12*1"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*28*7",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T07:46:51+00:00",
-        "id_pdc": "FR*V75*EPX16*28*7"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX03*02*2",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T07:33:02+00:00",
-        "id_pdc": "FR*V75*EPX03*02*2"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*14*4",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T07:36:38+00:00",
-        "id_pdc": "FR*V75*EPX07*14*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*20*5",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T07:40:13+00:00",
-        "id_pdc": "FR*V75*EPX17*20*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX02*08*5",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T06:30:44+00:00",
-        "id_pdc": "FR*V75*EPX02*08*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*05*5",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T08:20:55+00:00",
-        "id_pdc": "FR*V75*EPX09*05*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*14*6",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T09:39:35+00:00",
-        "id_pdc": "FR*V75*EPX12*14*6"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9013*01*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:03:04+00:00",
-        "id_pdc": "FR*V75*E9013*01*1"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*23*6",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:04:00+00:00",
-        "id_pdc": "FR*V75*EPX15*23*6"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*06*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:02:56+00:00",
-        "id_pdc": "FR*V75*EPX15*06*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*15*3",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T06:45:45+00:00",
-        "id_pdc": "FR*V75*EPX15*15*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EHBSAG*LOB*02*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T06:35:59+00:00",
-        "id_pdc": "FR*V75*EHBSAG*LOB*02*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*06*4",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T11:09:35+00:00",
-        "id_pdc": "FR*V75*EPX09*06*4"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*21*3",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T09:21:51+00:00",
@@ -3666,6 +3540,120 @@
         "id_pdc": "FR*V75*EPX12*18*3"
     },
     {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX05*13*6",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T06:03:58+00:00",
+        "id_pdc": "FR*V75*EPX05*13*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*07*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T06:11:21+00:00",
+        "id_pdc": "FR*V75*EPX12*07*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*12*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T06:06:50+00:00",
+        "id_pdc": "FR*V75*EPX14*12*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*08*2",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T06:58:05+00:00",
+        "id_pdc": "FR*V75*EPX20*08*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*06*5",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T08:05:29+00:00",
+        "id_pdc": "FR*V75*EPX20*06*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EHBSAE*PDA*05*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T07:18:29+00:00",
+        "id_pdc": "FR*V75*EHBSAE*PDA*05*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9013*03*2",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T07:24:20+00:00",
+        "id_pdc": "FR*V75*E9013*03*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*12*1",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T07:53:34+00:00",
+        "id_pdc": "FR*V75*EPX07*12*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX03*02*2",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T07:33:02+00:00",
+        "id_pdc": "FR*V75*EPX03*02*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*14*4",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T07:36:38+00:00",
+        "id_pdc": "FR*V75*EPX07*14*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*20*5",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T07:40:13+00:00",
+        "id_pdc": "FR*V75*EPX17*20*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX02*08*5",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T06:30:44+00:00",
+        "id_pdc": "FR*V75*EPX02*08*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*05*5",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T08:20:55+00:00",
+        "id_pdc": "FR*V75*EPX09*05*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*14*6",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T09:39:35+00:00",
+        "id_pdc": "FR*V75*EPX12*14*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*23*6",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:04:00+00:00",
+        "id_pdc": "FR*V75*EPX15*23*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*06*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:02:56+00:00",
+        "id_pdc": "FR*V75*EPX15*06*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*15*3",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T06:45:45+00:00",
+        "id_pdc": "FR*V75*EPX15*15*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EHBSAG*LOB*02*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T06:35:59+00:00",
+        "id_pdc": "FR*V75*EHBSAG*LOB*02*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*06*4",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T11:09:35+00:00",
+        "id_pdc": "FR*V75*EPX09*06*4"
+    },
+    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*11*1",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T10:17:00+00:00",
@@ -3792,6 +3780,18 @@
         "id_pdc": "FR*V75*E9001*02*1"
     },
     {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9013*01*1",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:56:08+00:00",
+        "id_pdc": "FR*V75*E9013*01*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*28*7",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:58:25+00:00",
+        "id_pdc": "FR*V75*EPX16*28*7"
+    },
+    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*04*5",
         "statut_pdc": "Inconnu",
         "last_updated": "2022-11-22T03:30:03+00:00",
@@ -3850,12 +3850,6 @@
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T05:32:39+00:00",
         "id_pdc": "FR*V75*EPX15*19*7"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9017*03*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T06:25:57+00:00",
-        "id_pdc": "FR*V75*E9017*03*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX19*06*3",
@@ -4320,12 +4314,6 @@
         "id_pdc": "FR*V75*E9007*06*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*19*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:16:02+00:00",
-        "id_pdc": "FR*V75*EPX08*19*4"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*12*4",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T13:04:19+00:00",
@@ -4392,34 +4380,10 @@
         "id_pdc": "FR*V75*EPX19*09*5"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX04*04*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:17:19+00:00",
-        "id_pdc": "FR*V75*EPX04*04*1"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX04*05*5",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:30:32+00:00",
         "id_pdc": "FR*V75*EPX04*05*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*13*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:38:28+00:00",
-        "id_pdc": "FR*V75*EPX10*13*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*18*4",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:40:13+00:00",
-        "id_pdc": "FR*V75*EPX12*18*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*12*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:42:13+00:00",
-        "id_pdc": "FR*V75*EPX12*12*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*31*2",
@@ -4428,22 +4392,58 @@
         "id_pdc": "FR*V75*EPX15*31*2"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX13*04*5",
-        "statut_pdc": "En maintenance",
-        "last_updated": "2024-06-07T13:47:20+00:00",
-        "id_pdc": "FR*V75*EPX13*04*5"
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*13*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:38:28+00:00",
+        "id_pdc": "FR*V75*EPX10*13*4"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX01*01*1",
-        "statut_pdc": "En maintenance",
-        "last_updated": "2024-06-07T13:49:02+00:00",
-        "id_pdc": "FR*V75*EPX01*01*1"
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*12*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:42:13+00:00",
+        "id_pdc": "FR*V75*EPX12*12*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*18*4",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:40:13+00:00",
+        "id_pdc": "FR*V75*EPX12*18*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX11*14*1",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:50:37+00:00",
         "id_pdc": "FR*V75*EPX11*14*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9017*03*3",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:58:45+00:00",
+        "id_pdc": "FR*V75*E9017*03*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX01*01*1",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:55:49+00:00",
+        "id_pdc": "FR*V75*EPX01*01*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX04*04*1",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:58:10+00:00",
+        "id_pdc": "FR*V75*EPX04*04*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX13*04*5",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:59:08+00:00",
+        "id_pdc": "FR*V75*EPX13*04*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*19*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T14:00:55+00:00",
+        "id_pdc": "FR*V75*EPX08*19*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*03*4",
@@ -4902,12 +4902,6 @@
         "id_pdc": "FR*V75*EPX20*12*4"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX02*05*2",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T12:13:26+00:00",
-        "id_pdc": "FR*V75*EPX02*05*2"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*14*1",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T12:03:47+00:00",
@@ -4992,16 +4986,10 @@
         "id_pdc": "FR*V75*EPX16*01*5"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*16*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:29:30+00:00",
-        "id_pdc": "FR*V75*EPX17*16*1"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*08*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:39:04+00:00",
-        "id_pdc": "FR*V75*EPX10*08*4"
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*07*3",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:44:51+00:00",
+        "id_pdc": "FR*V75*EPX20*07*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9007*01*3",
@@ -5016,16 +5004,28 @@
         "id_pdc": "FR*V75*EPX18*06*2"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*07*3",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:44:51+00:00",
-        "id_pdc": "FR*V75*EPX20*07*3"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*11*5",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:45:07+00:00",
         "id_pdc": "FR*V75*EPX08*11*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX02*05*2",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:58:58+00:00",
+        "id_pdc": "FR*V75*EPX02*05*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*08*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:39:04+00:00",
+        "id_pdc": "FR*V75*EPX10*08*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*16*1",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:29:30+00:00",
+        "id_pdc": "FR*V75*EPX17*16*1"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*03*1",
@@ -5418,12 +5418,6 @@
         "id_pdc": "FR*V75*EPX15*29*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EHBSAG*LOB*05*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T12:26:26+00:00",
-        "id_pdc": "FR*V75*EHBSAG*LOB*05*3"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*10*1",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T12:23:46+00:00",
@@ -5689,9 +5683,15 @@
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*14*2",
-        "statut_pdc": "En maintenance",
-        "last_updated": "2024-06-07T13:54:55+00:00",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:57:13+00:00",
         "id_pdc": "FR*V75*EPX14*14*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EHBSAG*LOB*05*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:58:27+00:00",
+        "id_pdc": "FR*V75*EHBSAG*LOB*05*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*09*6",
@@ -5964,12 +5964,6 @@
         "id_pdc": "FR*V75*EPX07*17*2"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*08*2",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T06:42:02+00:00",
-        "id_pdc": "FR*V75*EPX12*08*2"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*19*6",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T06:47:19+00:00",
@@ -6052,12 +6046,6 @@
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T10:08:38+00:00",
         "id_pdc": "FR*V75*EPX19*03*6"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*01*1",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T10:06:58+00:00",
-        "id_pdc": "FR*V75*EPX07*01*1"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9012*06*2",
@@ -6330,6 +6318,36 @@
         "id_pdc": "FR*V75*EPX18*15*6"
     },
     {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*25*5",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:59:18+00:00",
+        "id_pdc": "FR*V75*EPX17*25*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*01*6",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:44:56+00:00",
+        "id_pdc": "FR*V75*EPX07*01*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*08*2",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:57:14+00:00",
+        "id_pdc": "FR*V75*EPX12*08*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*01*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:52:56+00:00",
+        "id_pdc": "FR*V75*EPX10*01*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*01*1",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:56:37+00:00",
+        "id_pdc": "FR*V75*EPX07*01*1"
+    },
+    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9016*08*3",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:34:59+00:00",
@@ -6340,24 +6358,6 @@
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:37:57+00:00",
         "id_pdc": "FR*V75*EPX14*07*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*01*6",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:44:56+00:00",
-        "id_pdc": "FR*V75*EPX07*01*6"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*01*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:52:56+00:00",
-        "id_pdc": "FR*V75*EPX10*01*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*25*5",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:53:07+00:00",
-        "id_pdc": "FR*V75*EPX17*25*5"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX06*03*3",
@@ -6514,12 +6514,6 @@
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T02:30:06+00:00",
         "id_pdc": "FR*V75*EPX06*08*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX06*11*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T02:30:06+00:00",
-        "id_pdc": "FR*V75*EPX06*11*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*15*6",
@@ -6852,12 +6846,6 @@
         "id_pdc": "FR*V75*EPX18*04*3"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*10*6",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T12:34:14+00:00",
-        "id_pdc": "FR*V75*EPX07*10*6"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9019*02*3",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T12:22:06+00:00",
@@ -6868,12 +6856,6 @@
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T12:29:35+00:00",
         "id_pdc": "FR*V75*EPX19*06*6"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*05*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T12:25:24+00:00",
-        "id_pdc": "FR*V75*EPX10*05*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX13*09*6",
@@ -7008,6 +6990,36 @@
         "id_pdc": "FR*V75*EPX19*09*6"
     },
     {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX13*17*2",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:49:01+00:00",
+        "id_pdc": "FR*V75*EPX13*17*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*17*6",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:41:46+00:00",
+        "id_pdc": "FR*V75*EPX08*17*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*07*1",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:51:45+00:00",
+        "id_pdc": "FR*V75*EPX14*07*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*10*6",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:37:34+00:00",
+        "id_pdc": "FR*V75*EPX08*10*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*10*6",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:57:03+00:00",
+        "id_pdc": "FR*V75*EPX07*10*6"
+    },
+    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*21*5",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:35:25+00:00",
@@ -7020,28 +7032,16 @@
         "id_pdc": "FR*V75*EPX16*19*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*10*6",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:37:34+00:00",
-        "id_pdc": "FR*V75*EPX08*10*6"
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*05*4",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:59:05+00:00",
+        "id_pdc": "FR*V75*EPX10*05*4"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*17*6",
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX06*11*3",
         "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:41:46+00:00",
-        "id_pdc": "FR*V75*EPX08*17*6"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX13*17*2",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:49:01+00:00",
-        "id_pdc": "FR*V75*EPX13*17*2"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*07*1",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:51:45+00:00",
-        "id_pdc": "FR*V75*EPX14*07*1"
+        "last_updated": "2024-06-07T13:59:32+00:00",
+        "id_pdc": "FR*V75*EPX06*11*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX11*05*2",
@@ -7272,12 +7272,6 @@
         "id_pdc": "FR*V75*EPX09*09*4"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*24*4",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T05:00:06+00:00",
-        "id_pdc": "FR*V75*EPX16*24*4"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX18*03*6",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T08:24:10+00:00",
@@ -7446,12 +7440,6 @@
         "id_pdc": "FR*V75*EPX14*05*4"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*02*3",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T12:29:47+00:00",
-        "id_pdc": "FR*V75*EPX08*02*3"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*12*1",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T12:34:14+00:00",
@@ -7462,12 +7450,6 @@
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T12:27:59+00:00",
         "id_pdc": "FR*V75*EPX08*14*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EHBSAG*LOB*05*2",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T12:26:26+00:00",
-        "id_pdc": "FR*V75*EHBSAG*LOB*05*2"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*02*2",
@@ -7608,16 +7590,16 @@
         "id_pdc": "FR*V75*EPX06*09*3"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9019*06*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:36:10+00:00",
-        "id_pdc": "FR*V75*E9019*06*1"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*20*1",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T13:42:53+00:00",
         "id_pdc": "FR*V75*EPX08*20*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*25*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:52:59+00:00",
+        "id_pdc": "FR*V75*EPX17*25*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*05*7",
@@ -7632,16 +7614,34 @@
         "id_pdc": "FR*V75*EPX15*12*6"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*25*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:52:59+00:00",
-        "id_pdc": "FR*V75*EPX17*25*4"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*19*7",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:55:29+00:00",
         "id_pdc": "FR*V75*EPX17*19*7"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9019*06*1",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:36:10+00:00",
+        "id_pdc": "FR*V75*E9019*06*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*24*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:58:23+00:00",
+        "id_pdc": "FR*V75*EPX16*24*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EHBSAG*LOB*05*2",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:58:27+00:00",
+        "id_pdc": "FR*V75*EHBSAG*LOB*05*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*02*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:58:56+00:00",
+        "id_pdc": "FR*V75*EPX08*02*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*03*5",
@@ -7798,12 +7798,6 @@
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T02:30:06+00:00",
         "id_pdc": "FR*V75*EPX13*15*2"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*13*5",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T02:30:06+00:00",
-        "id_pdc": "FR*V75*EPX14*13*5"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX18*12*1",
@@ -8082,12 +8076,6 @@
         "id_pdc": "FR*V75*EPX03*04*6"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*02*1",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:04:05+00:00",
-        "id_pdc": "FR*V75*EPX12*02*1"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*08*1",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T11:21:02+00:00",
@@ -8208,10 +8196,34 @@
         "id_pdc": "FR*V75*EPX17*10*5"
     },
     {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*11*2",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:51:09+00:00",
+        "id_pdc": "FR*V75*EPX17*11*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*30*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:49:33+00:00",
+        "id_pdc": "FR*V75*EPX15*30*3"
+    },
+    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*12*6",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:46:13+00:00",
         "id_pdc": "FR*V75*EPX09*12*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*37*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:48:51+00:00",
+        "id_pdc": "FR*V75*EPX15*37*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*02*1",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:59:56+00:00",
+        "id_pdc": "FR*V75*EPX12*02*1"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*27*6",
@@ -8232,22 +8244,10 @@
         "id_pdc": "FR*V75*EPX06*02*4"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*37*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:48:51+00:00",
-        "id_pdc": "FR*V75*EPX15*37*4"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*30*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:49:33+00:00",
-        "id_pdc": "FR*V75*EPX15*30*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*11*2",
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*13*5",
         "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:51:09+00:00",
-        "id_pdc": "FR*V75*EPX17*11*2"
+        "last_updated": "2024-06-07T14:00:06+00:00",
+        "id_pdc": "FR*V75*EPX14*13*5"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*09*2",
@@ -8604,12 +8604,6 @@
         "id_pdc": "FR*V75*EPX05*08*5"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX13*16*6",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T10:23:52+00:00",
-        "id_pdc": "FR*V75*EPX13*16*6"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*04*2",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T10:30:54+00:00",
@@ -8868,12 +8862,6 @@
         "id_pdc": "FR*V75*EPX15*10*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*09*4",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:32:37+00:00",
-        "id_pdc": "FR*V75*EPX07*09*4"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*29*3",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T13:36:49+00:00",
@@ -8916,12 +8904,6 @@
         "id_pdc": "FR*V75*EPX19*04*5"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*11*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:55:03+00:00",
-        "id_pdc": "FR*V75*EPX17*11*1"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*18*5",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:42:50+00:00",
@@ -8932,6 +8914,24 @@
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:52:35+00:00",
         "id_pdc": "FR*V75*EPX07*02*5"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX13*16*6",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:56:05+00:00",
+        "id_pdc": "FR*V75*EPX13*16*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*09*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T14:00:55+00:00",
+        "id_pdc": "FR*V75*EPX07*09*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*11*1",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T14:00:45+00:00",
+        "id_pdc": "FR*V75*EPX17*11*1"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*03*2",
@@ -9180,12 +9180,6 @@
         "id_pdc": "FR*V75*EPX15*10*3"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*06*5",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T12:06:33+00:00",
-        "id_pdc": "FR*V75*EPX09*06*5"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*03*1",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T12:00:54+00:00",
@@ -9402,12 +9396,6 @@
         "id_pdc": "FR*V75*EPX04*07*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*15*4",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T11:03:15+00:00",
-        "id_pdc": "FR*V75*EPX16*15*4"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX05*13*2",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T11:06:32+00:00",
@@ -9534,28 +9522,16 @@
         "id_pdc": "FR*V75*EPX09*06*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX18*15*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:33:10+00:00",
-        "id_pdc": "FR*V75*EPX18*15*4"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*23*3",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T13:36:34+00:00",
         "id_pdc": "FR*V75*EPX16*23*3"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9015*02*3",
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*15*4",
         "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:39:18+00:00",
-        "id_pdc": "FR*V75*E9015*02*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9017*03*1",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:43:54+00:00",
-        "id_pdc": "FR*V75*E9017*03*1"
+        "last_updated": "2024-06-07T13:57:05+00:00",
+        "id_pdc": "FR*V75*EPX16*15*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*15*1",
@@ -9564,10 +9540,34 @@
         "id_pdc": "FR*V75*EPX16*15*1"
     },
     {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9017*03*1",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:43:54+00:00",
+        "id_pdc": "FR*V75*E9017*03*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX09*06*5",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:59:54+00:00",
+        "id_pdc": "FR*V75*EPX09*06*5"
+    },
+    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*17*1",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:51:35+00:00",
         "id_pdc": "FR*V75*EPX12*17*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9015*02*3",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:39:18+00:00",
+        "id_pdc": "FR*V75*E9015*02*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX18*15*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:33:10+00:00",
+        "id_pdc": "FR*V75*EPX18*15*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX20*09*4",
@@ -9840,12 +9840,6 @@
         "id_pdc": "FR*V75*EPX19*13*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*13*6",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T09:11:52+00:00",
-        "id_pdc": "FR*V75*EPX07*13*6"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX01*04*3",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T09:12:34+00:00",
@@ -9900,12 +9894,6 @@
         "id_pdc": "FR*V75*EPX05*09*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9007*01*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T11:11:32+00:00",
-        "id_pdc": "FR*V75*E9007*01*1"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX10*02*3",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T10:23:26+00:00",
@@ -9916,12 +9904,6 @@
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T10:30:45+00:00",
         "id_pdc": "FR*V75*EPX14*06*6"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*01*2",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T10:34:30+00:00",
-        "id_pdc": "FR*V75*EPX15*01*2"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX18*04*2",
@@ -10026,12 +10008,6 @@
         "id_pdc": "FR*V75*EPX16*16*6"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*23*1",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T12:12:10+00:00",
-        "id_pdc": "FR*V75*EPX16*23*1"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9012*03*1",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T12:05:35+00:00",
@@ -10090,12 +10066,6 @@
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T12:44:24+00:00",
         "id_pdc": "FR*V75*EPX16*21*5"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX06*11*4",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T12:41:09+00:00",
-        "id_pdc": "FR*V75*EPX06*11*4"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*07*5",
@@ -10212,12 +10182,6 @@
         "id_pdc": "FR*V75*EHBSAE*PDA*05*1"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9002*01*3",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T10:09:48+00:00",
-        "id_pdc": "FR*V75*E9002*01*3"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX12*05*4",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T13:17:39+00:00",
@@ -10254,16 +10218,10 @@
         "id_pdc": "FR*V75*EPX14*10*2"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*07*3",
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX11*04*3",
         "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:43:19+00:00",
-        "id_pdc": "FR*V75*EPX16*07*3"
-    },
-    {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*01*4",
-        "statut_pdc": "Disponible",
-        "last_updated": "2024-06-07T13:45:26+00:00",
-        "id_pdc": "FR*V75*EPX16*01*4"
+        "last_updated": "2024-06-07T13:51:31+00:00",
+        "id_pdc": "FR*V75*EPX11*04*3"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*14*2",
@@ -10278,16 +10236,58 @@
         "id_pdc": "FR*V75*EPX08*15*6"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX11*04*3",
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*07*3",
         "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T13:51:31+00:00",
-        "id_pdc": "FR*V75*EPX11*04*3"
+        "last_updated": "2024-06-07T13:43:19+00:00",
+        "id_pdc": "FR*V75*EPX16*07*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9007*01*1",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:57:42+00:00",
+        "id_pdc": "FR*V75*E9007*01*1"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX17*07*1",
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:53:23+00:00",
         "id_pdc": "FR*V75*EPX17*07*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*01*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:45:26+00:00",
+        "id_pdc": "FR*V75*EPX16*01*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*01*2",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:59:13+00:00",
+        "id_pdc": "FR*V75*EPX15*01*2"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX07*13*6",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T13:58:30+00:00",
+        "id_pdc": "FR*V75*EPX07*13*6"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX06*11*4",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:57:58+00:00",
+        "id_pdc": "FR*V75*EPX06*11*4"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*E9002*01*3",
+        "statut_pdc": "En maintenance",
+        "last_updated": "2024-06-07T14:00:32+00:00",
+        "id_pdc": "FR*V75*E9002*01*3"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX16*23*1",
+        "statut_pdc": "Occupé (en charge)",
+        "last_updated": "2024-06-07T14:00:38+00:00",
+        "id_pdc": "FR*V75*EPX16*23*1"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX14*09*3",
@@ -11316,12 +11316,6 @@
         "id_pdc": "FR*V75*EPX19*10*3"
     },
     {
-        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*20*5",
-        "statut_pdc": "Occupé (en charge)",
-        "last_updated": "2024-06-07T12:42:59+00:00",
-        "id_pdc": "FR*V75*EPX15*20*5"
-    },
-    {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*09*5",
         "statut_pdc": "Occupé (en charge)",
         "last_updated": "2024-06-07T12:45:14+00:00",
@@ -11590,6 +11584,12 @@
         "statut_pdc": "Disponible",
         "last_updated": "2024-06-07T13:36:41+00:00",
         "id_pdc": "FR*V75*E9014*02*1"
+    },
+    {
+        "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX15*20*5",
+        "statut_pdc": "Disponible",
+        "last_updated": "2024-06-07T13:58:37+00:00",
+        "id_pdc": "FR*V75*EPX15*20*5"
     },
     {
         "url_description_pdc": "https://parisdata.opendatasoft.com/explore/dataset/belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques/table/?disjunctive.nbre_pdc&disjunctive.accessibilite&disjunctive.horaires_sav&disjunctive.postal_code&disjunctive.acces_recharge&disjunctive.type_prise&disjunctive.puiss_max&q=FR*V75*EPX08*03*6",

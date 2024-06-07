@@ -23,14 +23,6 @@ def merge_parquet_files():
     print("Static DataFrame Columns:", static_df.columns)
     print("Realtime DataFrame Columns:", realtime_df.columns)
 
-    # Renommer les colonnes conflictuelles dans le DataFrame en temps réel
-    realtime_df = realtime_df \
-        .withColumnRenamed('adresse_station', 'realtime_adresse_station') \
-        .withColumnRenamed('arrondissement', 'realtime_arrondissement') \
-        .withColumnRenamed('code_insee_commune', 'realtime_code_insee_commune') \
-        .withColumnRenamed('coordonneesxy', 'realtime_coordonneesxy') \
-        .withColumnRenamed('statut_pdc', 'realtime_statut_pdc')
-
     # Fusionner les DataFrames sur les colonnes 'id_pdc_local' et 'id_pdc'
     merged_df = static_df.join(realtime_df, static_df.id_pdc_local == realtime_df.id_pdc, how='inner')
 

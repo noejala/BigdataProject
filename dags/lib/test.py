@@ -1,7 +1,7 @@
-from extract_belib_donnees_stats import fetch_static_data, save_data_to_file as save_static_data_to_file
-from extract_belib_temps_reel import fetch_realtime_data, save_data_to_file as save_realtime_data_to_file
-from format_belib_donnees_stats import format_static_data
-from format_belib_temps_reel import format_realtime_data
+from extract_belib_static_data import fetch_static_data, save_data_to_file as save_static_data_to_file
+from extract_belib_real_time import fetch_realtime_data, save_data_to_file as save_realtime_data_to_file
+from format_belib_static_data import format_static_data
+from format_belib_real_time import format_realtime_data
 
 def main():
     print("Starting data extraction for Belib' static data...")

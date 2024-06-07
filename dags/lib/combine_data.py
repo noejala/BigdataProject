@@ -12,8 +12,8 @@ def merge_parquet_files():
     base_path = os.path.abspath(os.path.join('../..'))
 
     # Chemins des fichiers Parquet d'entrée
-    static_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibdonnees/belib_static_data.parquet')
-    realtime_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibtempsreel/belib_realtime_data.parquet')
+    static_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibstaticdata/belib_static_data.parquet')
+    realtime_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibrealtime/belib_realtime_data.parquet')
 
     # Lire les fichiers Parquet
     static_df = spark.read.parquet(static_data_path)
@@ -22,14 +22,6 @@ def merge_parquet_files():
     # Afficher les colonnes pour chaque DataFrame
     print("Static DataFrame Columns:", static_df.columns)
     print("Realtime DataFrame Columns:", realtime_df.columns)
-
-    # Renommer les colonnes conflictuelles dans le DataFrame en temps réel
-    realtime_df = realtime_df \
-        .withColumnRenamed('adresse_station', 'realtime_adresse_station') \
-        .withColumnRenamed('arrondissement', 'realtime_arrondissement') \
-        .withColumnRenamed('code_insee_commune', 'realtime_code_insee_commune') \
-        .withColumnRenamed('coordonneesxy', 'realtime_coordonneesxy') \
-        .withColumnRenamed('statut_pdc', 'realtime_statut_pdc')
 
     # Fusionner les DataFrames sur les colonnes 'id_pdc_local' et 'id_pdc'
     merged_df = static_df.join(realtime_df, static_df.id_pdc_local == realtime_df.id_pdc, how='inner')

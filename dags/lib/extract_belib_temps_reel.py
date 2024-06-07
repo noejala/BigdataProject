@@ -6,42 +6,43 @@ def fetch_realtime_data():
     base_url = 'https://opendata.paris.fr/api/records/1.0/search/'
     params = {
         'dataset': 'belib-points-de-recharge-pour-vehicules-electriques-disponibilite-temps-reel',
-        'rows': 2100, # Vous pouvez ajuster cette limite selon vos besoins
+        'rows': 2100  # Ajustez cette limite selon vos besoins
     }
 
     response = requests.get(base_url, params=params)
     if response.status_code == 200:
         print("API data fetched successfully from Belib' - Disponibilité Temps Réel!")
-        return response.json()  # Retourne l'intégralité des données JSON
+        data = response.json()  # Recevoir les données JSON
+        filtered_data = []
+
+        # Colonnes à exclure
+        exclude_columns = ['coordonneesxy', 'url_description', 'adresse_station', 'arrondissement', 'code_insee_commune']
+
+        # Filtrer les colonnes pour chaque enregistrement
+        for record in data.get('records', []):
+            filtered_record = {key: val for key, val in record['fields'].items() if key not in exclude_columns}
+            filtered_data.append(filtered_record)
+
+        return filtered_data  # Retourne les données filtrées
     else:
         print(f"Request failed with status code {response.status_code}")
         return None
 
 def save_data_to_file(data, filename='belib_realtime_data.json'):
-    # Définir le chemin de base à partir du script actuel pour remonter jusqu'à la racine du projet
     base_path = os.path.abspath(os.path.join('../..'))
-
-    # Construire le chemin vers le dossier 'construction'
     destination_path = os.path.join(base_path, 'dags/lib/datalake/raw/belibtempsreel')
-
-    # S'assurer que le dossier existe, sinon le créer
     os.makedirs(destination_path, exist_ok=True)
-
-    # Chemin complet du fichier de sortie
     file_path = os.path.join(destination_path, filename)
 
-    # Ouvrir un fichier en mode écriture et sauvegarder les données JSON
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
     print(f"Data saved to file successfully at {file_path}")
 
-# Appeler la fonction pour récupérer les données
+# Exécution des fonctions pour récupérer et sauvegarder les données filtrées
 data = fetch_realtime_data()
-
-# Vérifier si les données ont été récupérées
 if data:
-    save_data_to_file(data)  # Sauvegarder les données dans un fichier spécifique
+    save_data_to_file(data)
 else:
     print("No data to save.")
 

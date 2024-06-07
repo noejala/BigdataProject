@@ -2,23 +2,21 @@ import requests
 import json
 import os
 
-def fetch_static_data():
+def fetch_realtime_data():
     base_url = 'https://opendata.paris.fr/api/records/1.0/search/'
     params = {
-        'dataset': 'belib-points-de-recharge-pour-vehicules-electriques-donnees-statiques',
+        'dataset': 'belib-points-de-recharge-pour-vehicules-electriques-disponibilite-temps-reel',
         'rows': 2100  # Ajustez cette limite selon vos besoins
     }
 
     response = requests.get(base_url, params=params)
     if response.status_code == 200:
-        print("API data fetched successfully from Belib' - Données Statiques!")
+        print("API data fetched successfully from Belib' - Disponibilité Temps Réel!")
         data = response.json()  # Recevoir les données JSON
         filtered_data = []
 
         # Colonnes à exclure
-        exclude_columns = ['statut_pdc', 'condition_acces', 'contact_amenageur', 'gratuit', 'horaires',
-                           'id_pdc_itinerance', 'id_station_itinerance', 'nom_amenageur', 'nom_enseigne',
-                           'num_pdl', 'prise_type_autre', 'raccordement', 'reservation', 'siren_amenageur']
+        exclude_columns = ['coordonneesxy', 'url_description', 'adresse_station', 'arrondissement', 'code_insee_commune']
 
         # Filtrer les colonnes pour chaque enregistrement
         for record in data.get('records', []):
@@ -30,9 +28,9 @@ def fetch_static_data():
         print(f"Request failed with status code {response.status_code}")
         return None
 
-def save_data_to_file(data, filename='belib_static_data.json'):
+def save_data_to_file(data, filename='belib_realtime_data.json'):
     base_path = os.path.abspath(os.path.join('../..'))
-    destination_path = os.path.join(base_path, 'dags/lib/datalake/raw/belibdonnees')
+    destination_path = os.path.join(base_path, 'dags/lib/datalake/raw/belibrealtime')
     os.makedirs(destination_path, exist_ok=True)
     file_path = os.path.join(destination_path, filename)
 
@@ -42,7 +40,7 @@ def save_data_to_file(data, filename='belib_static_data.json'):
     print(f"Data saved to file successfully at {file_path}")
 
 # Exécution des fonctions pour récupérer et sauvegarder les données filtrées
-data = fetch_static_data()
+data = fetch_realtime_data()
 if data:
     save_data_to_file(data)
 else:

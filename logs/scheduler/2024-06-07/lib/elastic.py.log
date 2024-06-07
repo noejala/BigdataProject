@@ -28,3 +28,58 @@
 [2024-06-07T16:56:15.730+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:56:15.730+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
 [2024-06-07T16:56:16.086+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
 [2024-06-07T16:56:16.125+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.397 seconds
+[2024-06-07T16:57:51.278+0200] {processor.py:161} INFO - Started process (PID=34907) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T16:57:51.280+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T16:57:51.280+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:57:51.280+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T16:57:51.632+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T16:57:51.671+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.394 seconds
+[2024-06-07T16:59:28.371+0200] {processor.py:161} INFO - Started process (PID=35054) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T16:59:28.372+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T16:59:28.373+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:59:28.373+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T16:59:28.738+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T16:59:28.781+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.411 seconds
+[2024-06-07T17:01:03.703+0200] {processor.py:161} INFO - Started process (PID=35159) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:01:03.705+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:01:03.705+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:01:03.705+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:01:04.045+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:01:04.084+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.382 seconds
+[2024-06-07T17:02:40.459+0200] {processor.py:161} INFO - Started process (PID=35266) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:02:40.460+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:02:40.461+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:02:40.461+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:02:40.819+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:02:40.858+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.400 seconds
+[2024-06-07T17:04:20.804+0200] {processor.py:161} INFO - Started process (PID=35395) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:04:20.806+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:04:20.807+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:04:20.807+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:04:21.344+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:04:21.487+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.688 seconds
+[2024-06-07T17:05:56.877+0200] {processor.py:161} INFO - Started process (PID=35503) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:05:56.878+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:05:56.878+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:05:56.878+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:05:57.208+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:05:57.247+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.372 seconds
+[2024-06-07T17:07:34.011+0200] {processor.py:161} INFO - Started process (PID=35615) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:07:34.011+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:07:34.012+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:07:34.011+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:07:34.407+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:07:34.456+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.447 seconds
+[2024-06-07T17:09:08.960+0200] {processor.py:161} INFO - Started process (PID=35710) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:09:08.961+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:09:08.962+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:09:08.962+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:09:09.321+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:09:09.365+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.407 seconds
+[2024-06-07T17:10:45.130+0200] {processor.py:161} INFO - Started process (PID=35816) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:10:45.132+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:10:45.133+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:10:45.133+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:10:45.538+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:10:45.577+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.450 seconds
+[2024-06-07T17:12:17.573+0200] {processor.py:161} INFO - Started process (PID=35917) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:12:17.575+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:12:17.575+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:12:17.575+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:12:17.917+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:12:17.956+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.384 seconds
+[2024-06-07T17:13:53.971+0200] {processor.py:161} INFO - Started process (PID=36095) to work on /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:13:53.973+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/elastic.py for tasks to queue
+[2024-06-07T17:13:53.973+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:13:53.973+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:13:54.306+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/elastic.py
+[2024-06-07T17:13:54.344+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/elastic.py took 0.375 seconds

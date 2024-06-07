@@ -12,8 +12,8 @@ def merge_parquet_files():
     base_path = os.path.abspath(os.path.join('../..'))
 
     # Chemins des fichiers Parquet d'entrée
-    static_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibdonnees/belib_static_data.parquet')
-    realtime_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibtempsreel/belib_realtime_data.parquet')
+    static_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibstaticdata/belib_static_data.parquet')
+    realtime_data_path = os.path.join(base_path,'dags/lib/datalake/formatted/belibrealtime/belib_realtime_data.parquet')
 
     # Lire les fichiers Parquet
     static_df = spark.read.parquet(static_data_path)

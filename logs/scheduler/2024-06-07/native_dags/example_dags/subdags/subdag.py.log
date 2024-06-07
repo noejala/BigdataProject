@@ -148,3 +148,58 @@
 [2024-06-07T16:56:26.947+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:56:26.947+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
 [2024-06-07T16:56:26.949+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
 [2024-06-07T16:56:26.983+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2024-06-07T16:58:02.484+0200] {processor.py:161} INFO - Started process (PID=34918) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T16:58:02.485+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T16:58:02.485+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:58:02.485+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T16:58:02.487+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T16:58:02.524+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2024-06-07T16:59:39.599+0200] {processor.py:161} INFO - Started process (PID=35069) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T16:59:39.600+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T16:59:39.600+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:59:39.600+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T16:59:39.601+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T16:59:39.636+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2024-06-07T17:01:15.398+0200] {processor.py:161} INFO - Started process (PID=35170) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:01:15.399+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:01:15.399+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:01:15.399+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:01:15.401+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:01:15.436+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2024-06-07T17:02:51.738+0200] {processor.py:161} INFO - Started process (PID=35276) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:02:51.739+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:02:51.740+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:02:51.740+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:02:51.741+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:02:51.776+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2024-06-07T17:04:32.325+0200] {processor.py:161} INFO - Started process (PID=35410) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:04:32.326+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:04:32.326+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:04:32.326+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:04:32.327+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:04:32.363+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2024-06-07T17:06:07.701+0200] {processor.py:161} INFO - Started process (PID=35513) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:06:07.701+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:06:07.702+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:06:07.701+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:06:07.703+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:06:07.739+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2024-06-07T17:07:45.278+0200] {processor.py:161} INFO - Started process (PID=35625) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:07:45.280+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:07:45.280+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:07:45.280+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:07:45.281+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:07:45.318+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.041 seconds
+[2024-06-07T17:09:21.155+0200] {processor.py:161} INFO - Started process (PID=35723) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:09:21.156+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:09:21.156+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:09:21.156+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:09:21.157+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:09:21.194+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2024-06-07T17:10:55.591+0200] {processor.py:161} INFO - Started process (PID=35825) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:10:55.593+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:10:55.593+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:10:55.593+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:10:55.594+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:10:55.630+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2024-06-07T17:12:28.820+0200] {processor.py:161} INFO - Started process (PID=35929) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:12:28.821+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:12:28.821+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:12:28.821+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:12:28.823+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:12:28.858+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.039 seconds
+[2024-06-07T17:14:05.761+0200] {processor.py:161} INFO - Started process (PID=36106) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:14:05.763+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-06-07T17:14:05.763+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:14:05.763+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:14:05.764+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-06-07T17:14:05.799+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds

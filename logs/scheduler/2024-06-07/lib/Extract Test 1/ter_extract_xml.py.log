@@ -148,3 +148,58 @@
 [2024-06-07T16:56:25.839+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:56:25.839+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
 [2024-06-07T16:56:25.845+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
 [2024-06-07T16:56:25.880+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.044 seconds
+[2024-06-07T16:58:01.426+0200] {processor.py:161} INFO - Started process (PID=34914) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T16:58:01.427+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T16:58:01.427+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:58:01.427+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T16:58:01.433+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T16:58:01.469+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.044 seconds
+[2024-06-07T16:59:38.670+0200] {processor.py:161} INFO - Started process (PID=35067) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T16:59:38.671+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T16:59:38.671+0200] {logging_mixin.py:188} INFO - [2024-06-07T16:59:38.671+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T16:59:38.677+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T16:59:38.713+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.045 seconds
+[2024-06-07T17:01:13.745+0200] {processor.py:161} INFO - Started process (PID=35169) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:01:13.746+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:01:13.747+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:01:13.746+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:01:13.753+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:01:13.790+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.046 seconds
+[2024-06-07T17:02:49.641+0200] {processor.py:161} INFO - Started process (PID=35273) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:02:49.645+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:02:49.646+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:02:49.646+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:02:49.656+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:02:49.709+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.070 seconds
+[2024-06-07T17:04:30.464+0200] {processor.py:161} INFO - Started process (PID=35408) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:04:30.465+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:04:30.465+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:04:30.465+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:04:30.471+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:04:30.512+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.050 seconds
+[2024-06-07T17:06:05.995+0200] {processor.py:161} INFO - Started process (PID=35510) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:06:05.996+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:06:05.997+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:06:05.996+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:06:06.002+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:06:06.037+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.044 seconds
+[2024-06-07T17:07:44.234+0200] {processor.py:161} INFO - Started process (PID=35624) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:07:44.237+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:07:44.238+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:07:44.237+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:07:44.244+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:07:44.278+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.046 seconds
+[2024-06-07T17:09:19.309+0200] {processor.py:161} INFO - Started process (PID=35722) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:09:19.310+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:09:19.310+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:09:19.310+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:09:19.316+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:09:19.356+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.048 seconds
+[2024-06-07T17:10:53.757+0200] {processor.py:161} INFO - Started process (PID=35823) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:10:53.758+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:10:53.759+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:10:53.759+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:10:53.765+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:10:53.801+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.045 seconds
+[2024-06-07T17:12:27.004+0200] {processor.py:161} INFO - Started process (PID=35926) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:12:27.004+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:12:27.005+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:12:27.005+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:12:27.010+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:12:27.045+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.043 seconds
+[2024-06-07T17:14:04.097+0200] {processor.py:161} INFO - Started process (PID=36105) to work on /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:14:04.098+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py for tasks to queue
+[2024-06-07T17:14:04.098+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:14:04.098+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:14:04.104+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py
+[2024-06-07T17:14:04.140+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/lib/Extract Test 1/ter_extract_xml.py took 0.044 seconds

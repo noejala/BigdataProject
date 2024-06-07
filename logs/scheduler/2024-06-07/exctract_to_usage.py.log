@@ -373,3 +373,18 @@ Traceback (most recent call last):
 NameError: name 'index_to_elastic' is not defined
 [2024-06-07T17:13:56.190+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/exctract_to_usage.py
 [2024-06-07T17:13:56.226+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/exctract_to_usage.py took 0.051 seconds
+[2024-06-07T17:15:29.774+0200] {processor.py:161} INFO - Started process (PID=36305) to work on /Users/noejalabert/airflow/dags/exctract_to_usage.py
+[2024-06-07T17:15:29.776+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/exctract_to_usage.py for tasks to queue
+[2024-06-07T17:15:29.776+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:15:29.776+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/exctract_to_usage.py
+[2024-06-07T17:15:29.787+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:15:29.786+0200] {dagbag.py:350} ERROR - Failed to import: /Users/noejalabert/airflow/dags/exctract_to_usage.py
+Traceback (most recent call last):
+  File "/Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/noejalabert/airflow/dags/exctract_to_usage.py", line 66, in <module>
+    combine_data >> index_to_elastic  # Assuming `index_to_elastic` is your Elastic indexing task
+                    ^^^^^^^^^^^^^^^^
+NameError: name 'index_to_elastic' is not defined
+[2024-06-07T17:15:29.787+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/exctract_to_usage.py
+[2024-06-07T17:15:29.823+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/exctract_to_usage.py took 0.051 seconds

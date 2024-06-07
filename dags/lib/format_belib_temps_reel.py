@@ -21,13 +21,12 @@ def format_realtime_data():
 
     raw_data = read_raw_data(raw_file_path)
 
-    records = [record['fields'] for record in raw_data['records']]
-
+    # Assuming each item in raw_data is a dictionary and directly creating a DataFrame
     spark = SparkSession.builder \
         .appName("Belib' Realtime Data Processing") \
         .getOrCreate()
 
-    df = spark.createDataFrame(records)
+    df = spark.createDataFrame(raw_data)  # Directly pass the list of dictionaries to create DataFrame
 
     df = df.coalesce(1)
 

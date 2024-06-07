@@ -285,3 +285,10 @@
 [2024-06-07T17:14:45.118+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:14:45.118+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-07T17:14:45.125+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:14:45.125+0200] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-06-06 00:00:00+00:00, run_after=2024-06-07 00:00:00+00:00
 [2024-06-07T17:14:45.134+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.089 seconds
+[2024-06-07T17:16:18.111+0200] {processor.py:161} INFO - Started process (PID=36484) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-06-07T17:16:18.112+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2024-06-07T17:16:18.112+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:16:18.112+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-06-07T17:16:18.131+0200] {processor.py:840} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-06-07T17:16:18.179+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:16:18.179+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-07T17:16:18.186+0200] {logging_mixin.py:188} INFO - [2024-06-07T17:16:18.186+0200] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-06-06 00:00:00+00:00, run_after=2024-06-07 00:00:00+00:00
+[2024-06-07T17:16:18.195+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.085 seconds

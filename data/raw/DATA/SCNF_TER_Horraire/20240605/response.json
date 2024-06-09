@@ -1,0 +1,30 @@
+{
+    "total_count": 5,
+    "results": [
+        {
+            "donnees": "Informations temps r\u00e9el sur les trains TER, Intercit\u00e9s et TGV",
+            "format": "GTFS-RT",
+            "download": "https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-service-alerts"
+        },
+        {
+            "donnees": "Horaires des lignes TER en temps reel",
+            "format": "GTFS-RT",
+            "download": "https://proxy.transport.data.gouv.fr/resource/sncf-ter-gtfs-rt-trip-updates"
+        },
+        {
+            "donnees": "Horaires des lignes TER theorique",
+            "format": "NeTEx",
+            "download": "https://eu.ftp.opendatasoft.com/sncf/horaires/export-ter-netex-last.zip"
+        },
+        {
+            "donnees": "Informations temps r\u00e9el sur les trains TER, Intercit\u00e9s et TGV",
+            "format": "SIRI SX LITE",
+            "download": "https://proxy.transport.data.gouv.fr/resource/sncf-siri-lite-situation-exchange"
+        },
+        {
+            "donnees": "Horaires des lignes TER theorique",
+            "format": "GTFS",
+            "download": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip"
+        }
+    ]
+}

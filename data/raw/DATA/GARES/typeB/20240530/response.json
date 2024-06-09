@@ -1,0 +1,1105 @@
+{
+    "total_count": 907,
+    "results": [
+        {
+            "nom": "Vaucelles",
+            "libellecourt": "CHD",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.22885,
+                "lat": 49.02193
+            },
+            "codeinsee": "95607",
+            "codes_uic": "87276626"
+        },
+        {
+            "nom": "Toury",
+            "libellecourt": "TYK",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.939565,
+                "lat": 48.193606
+            },
+            "codeinsee": "28391",
+            "codes_uic": "87543074"
+        },
+        {
+            "nom": "Foix",
+            "libellecourt": "FXE",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.607147,
+                "lat": 42.969746
+            },
+            "codeinsee": "9122",
+            "codes_uic": "87611616"
+        },
+        {
+            "nom": "Valenciennes",
+            "libellecourt": "VSN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.517115,
+                "lat": 50.363259
+            },
+            "codeinsee": "59606",
+            "codes_uic": "87343004"
+        },
+        {
+            "nom": "Commercy",
+            "libellecourt": "CCY",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 5.58861,
+                "lat": 48.765749
+            },
+            "codeinsee": "55122",
+            "codes_uic": "87175257"
+        },
+        {
+            "nom": "Clermont de l'Oise",
+            "libellecourt": "CDO",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.41767,
+                "lat": 49.38531
+            },
+            "codeinsee": "60157",
+            "codes_uic": "87313304"
+        },
+        {
+            "nom": "\u00c9pernay",
+            "libellecourt": "EPR",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.959798,
+                "lat": 49.046289
+            },
+            "codeinsee": "51230",
+            "codes_uic": "87171553"
+        },
+        {
+            "nom": "Cr\u00e9py-en-Valois",
+            "libellecourt": "CYV",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.8864694,
+                "lat": 49.231235
+            },
+            "codeinsee": "60176",
+            "codes_uic": "87271593"
+        },
+        {
+            "nom": "Le Val d'Or",
+            "libellecourt": "VDO",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.21636,
+                "lat": 48.85645
+            },
+            "codeinsee": "92064",
+            "codes_uic": "87382366"
+        },
+        {
+            "nom": "Beaune",
+            "libellecourt": "BEA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.848379,
+                "lat": 47.023053
+            },
+            "codeinsee": "21054",
+            "codes_uic": "87713545"
+        },
+        {
+            "nom": "Saint-Just-en-Chauss\u00e9e",
+            "libellecourt": "SJS",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.42949,
+                "lat": 49.50364
+            },
+            "codeinsee": "60581",
+            "codes_uic": "87313270"
+        },
+        {
+            "nom": "Bellevue",
+            "libellecourt": "BLU",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.2296743,
+                "lat": 48.8190033
+            },
+            "codeinsee": "92048",
+            "codes_uic": "87393116"
+        },
+        {
+            "nom": "Cernay (Haut-Rhin)",
+            "libellecourt": "CEF",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 7.1737,
+                "lat": 47.802
+            },
+            "codeinsee": "68063",
+            "codes_uic": "87182410"
+        },
+        {
+            "nom": "Baillargues",
+            "libellecourt": "BGU",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.0071585,
+                "lat": 43.6533234
+            },
+            "codeinsee": "34022",
+            "codes_uic": "87773457"
+        },
+        {
+            "nom": "Bois-Colombes",
+            "libellecourt": "BCO",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.27256,
+                "lat": 48.91348
+            },
+            "codeinsee": "92009",
+            "codes_uic": "87381079"
+        },
+        {
+            "nom": "La Verpilli\u00e8re",
+            "libellecourt": "VEI",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 5.150866,
+                "lat": 45.6276
+            },
+            "codeinsee": "38537",
+            "codes_uic": "87723395"
+        },
+        {
+            "nom": "Villeparisis - Mitry-le-Neuf",
+            "libellecourt": "VII",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.60243,
+                "lat": 48.95325
+            },
+            "codeinsee": "77294",
+            "codes_uic": "87271510"
+        },
+        {
+            "nom": "Nice Saint-Augustin",
+            "libellecourt": "NIA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 7.216199,
+                "lat": 43.670728
+            },
+            "codeinsee": "6088",
+            "codes_uic": "87756254"
+        },
+        {
+            "nom": "Creil",
+            "libellecourt": "CLH",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.4692439,
+                "lat": 49.263757
+            },
+            "codeinsee": "60175",
+            "codes_uic": "87276006"
+        },
+        {
+            "nom": "Poissy",
+            "libellecourt": "PSY",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.0413676,
+                "lat": 48.9329014
+            },
+            "codeinsee": "78498",
+            "codes_uic": "87386573"
+        },
+        {
+            "nom": "Lure",
+            "libellecourt": "LUR",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 6.4925787,
+                "lat": 47.683269
+            },
+            "codeinsee": "70310",
+            "codes_uic": "87185249"
+        },
+        {
+            "nom": "Maisons-Alfort - Alfortville",
+            "libellecourt": "MFA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.426977,
+                "lat": 48.802071
+            },
+            "codeinsee": "94046",
+            "codes_uic": "87681155"
+        },
+        {
+            "nom": "Chambly",
+            "libellecourt": "CVK",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.24048,
+                "lat": 49.16362
+            },
+            "codeinsee": "60139",
+            "codes_uic": "87276725"
+        },
+        {
+            "nom": "Saverdun",
+            "libellecourt": "SRN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.570616,
+                "lat": 43.239357
+            },
+            "codeinsee": "9282",
+            "codes_uic": "87611368"
+        },
+        {
+            "nom": "Chars",
+            "libellecourt": "CHR",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.93671,
+                "lat": 49.16268
+            },
+            "codeinsee": "95142",
+            "codes_uic": "87381194"
+        },
+        {
+            "nom": "Mulhouse Dornach",
+            "libellecourt": "MDQ",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 7.308477,
+                "lat": 47.74713
+            },
+            "codeinsee": "68224",
+            "codes_uic": "87182055"
+        },
+        {
+            "nom": "Chaumont",
+            "libellecourt": "CHM",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 5.1346,
+                "lat": 48.10976
+            },
+            "codeinsee": "52121",
+            "codes_uic": "87142000"
+        },
+        {
+            "nom": "Caz\u00e8res",
+            "libellecourt": "CZG",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.083106,
+                "lat": 43.212834
+            },
+            "codeinsee": "31135",
+            "codes_uic": "87611079"
+        },
+        {
+            "nom": "Orchies",
+            "libellecourt": "ORC",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.24888,
+                "lat": 50.47705
+            },
+            "codeinsee": "59449",
+            "codes_uic": "87286583"
+        },
+        {
+            "nom": "Combs-la-Ville - Quincy",
+            "libellecourt": "CBV",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.547798,
+                "lat": 48.667179
+            },
+            "codeinsee": "77122",
+            "codes_uic": "87682146"
+        },
+        {
+            "nom": "Aubergenville \u00c9lisabethville",
+            "libellecourt": "AEH",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.8484987,
+                "lat": 48.971825
+            },
+            "codeinsee": "78029",
+            "codes_uic": "87386730"
+        },
+        {
+            "nom": "Boussens",
+            "libellecourt": "BQY",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 0.972543,
+                "lat": 43.179617
+            },
+            "codeinsee": "31084",
+            "codes_uic": "87611095"
+        },
+        {
+            "nom": "Lyon Gorge de Loup",
+            "libellecourt": "LYL",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.804631,
+                "lat": 45.766078
+            },
+            "codeinsee": "69389",
+            "codes_uic": "87721175"
+        },
+        {
+            "nom": "Hy\u00e8res",
+            "libellecourt": "HYE",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 6.124223,
+                "lat": 43.108867
+            },
+            "codeinsee": "83069",
+            "codes_uic": "87755629"
+        },
+        {
+            "nom": "Thionville",
+            "libellecourt": "THL",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 6.169543,
+                "lat": 49.353931
+            },
+            "codeinsee": "57672",
+            "codes_uic": "87191007"
+        },
+        {
+            "nom": "Albi",
+            "libellecourt": "ALB",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.137958,
+                "lat": 43.92238
+            },
+            "codeinsee": "81004",
+            "codes_uic": "87615005"
+        },
+        {
+            "nom": "Vernouillet - Verneuil",
+            "libellecourt": "VET",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.9828731,
+                "lat": 48.9811884
+            },
+            "codeinsee": "78642",
+            "codes_uic": "87386656"
+        },
+        {
+            "nom": "Anse Halte",
+            "libellecourt": "AHA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.71987,
+                "lat": 45.93929
+            },
+            "codeinsee": "69009",
+            "codes_uic": "87721324"
+        },
+        {
+            "nom": "S\u00e9r\u00e9zin-du-Rh\u00f4ne",
+            "libellecourt": "SZN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.81806,
+                "lat": 45.62716
+            },
+            "codeinsee": "69276",
+            "codes_uic": "87722546"
+        },
+        {
+            "nom": "Audruicq",
+            "libellecourt": "ADQ",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.07636,
+                "lat": 50.87567
+            },
+            "codeinsee": "62057",
+            "codes_uic": "87281428"
+        },
+        {
+            "nom": "La Charit\u00e9-sur-Loire",
+            "libellecourt": "LAT",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.023883,
+                "lat": 47.179914
+            },
+            "codeinsee": "58059",
+            "codes_uic": "87696195"
+        },
+        {
+            "nom": "Sarrebourg",
+            "libellecourt": "SBG",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 7.05285,
+                "lat": 48.73808
+            },
+            "codeinsee": "57630",
+            "codes_uic": "87215012"
+        },
+        {
+            "nom": "\u00c9pinal",
+            "libellecourt": "ELP",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 6.441787,
+                "lat": 48.178005
+            },
+            "codeinsee": "88160",
+            "codes_uic": "87144006"
+        },
+        {
+            "nom": "M\u00e2con",
+            "libellecourt": "MAC",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.824887,
+                "lat": 46.302572
+            },
+            "codeinsee": "71270",
+            "codes_uic": "87725689"
+        },
+        {
+            "nom": "Muret",
+            "libellecourt": "MET",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.324449,
+                "lat": 43.464824
+            },
+            "codeinsee": "31395",
+            "codes_uic": "87611038"
+        },
+        {
+            "nom": "Mont\u00e9limar",
+            "libellecourt": "MTR",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.744792,
+                "lat": 44.559079
+            },
+            "codeinsee": "26198",
+            "codes_uic": "87764001"
+        },
+        {
+            "nom": "Lunel",
+            "libellecourt": "LUN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.131086,
+                "lat": 43.679392
+            },
+            "codeinsee": "34145",
+            "codes_uic": "87773408"
+        },
+        {
+            "nom": "Marly-le-Roi",
+            "libellecourt": "MLR",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.0965436,
+                "lat": 48.8713084
+            },
+            "codeinsee": "78372",
+            "codes_uic": "87382465"
+        },
+        {
+            "nom": "L'Isle-d'Abeau",
+            "libellecourt": "ISA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 5.21969,
+                "lat": 45.607645
+            },
+            "codeinsee": "38193",
+            "codes_uic": "87761239"
+        },
+        {
+            "nom": "Issy-les-Moulineaux",
+            "libellecourt": "ISY",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.2593469,
+                "lat": 48.8201001
+            },
+            "codeinsee": "92040",
+            "codes_uic": "87393074"
+        },
+        {
+            "nom": "Saint-Leu-la-For\u00eat",
+            "libellecourt": "SLF",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.24264,
+                "lat": 49.01571
+            },
+            "codeinsee": "95563",
+            "codes_uic": "87276600"
+        },
+        {
+            "nom": "Blois - Chambord",
+            "libellecourt": "BLO",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.323823,
+                "lat": 47.585445
+            },
+            "codeinsee": "41018",
+            "codes_uic": "87574004"
+        },
+        {
+            "nom": "Revin",
+            "libellecourt": "RVI",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.642536,
+                "lat": 49.938756
+            },
+            "codeinsee": "8363",
+            "codes_uic": "87172080"
+        },
+        {
+            "nom": "Rue",
+            "libellecourt": "RUE",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.6757,
+                "lat": 50.27308
+            },
+            "codeinsee": "80688",
+            "codes_uic": "87317404"
+        },
+        {
+            "nom": "Cambrai",
+            "libellecourt": "CAM",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.24118,
+                "lat": 50.17662
+            },
+            "codeinsee": "59122",
+            "codes_uic": "87345520"
+        },
+        {
+            "nom": "Mortcerf",
+            "libellecourt": "MOF",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.9075554,
+                "lat": 48.7892191
+            },
+            "codeinsee": "77318",
+            "codes_uic": "87116244"
+        },
+        {
+            "nom": "Champagne-sur-Seine",
+            "libellecourt": "CME",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.799184,
+                "lat": 48.406531
+            },
+            "codeinsee": "77079",
+            "codes_uic": "87682450"
+        },
+        {
+            "nom": "Longpr\u00e9-les-Corps-Saints",
+            "libellecourt": "LGP",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.00277,
+                "lat": 50.01128
+            },
+            "codeinsee": "80488",
+            "codes_uic": "87313122"
+        },
+        {
+            "nom": "Le Plessis-Belleville",
+            "libellecourt": "PLB",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.7448073,
+                "lat": 49.0959033
+            },
+            "codeinsee": "60500",
+            "codes_uic": "87271551"
+        },
+        {
+            "nom": "Villiers-le-Bel - Gonesse - Arnouville",
+            "libellecourt": "VIB",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.4162288,
+                "lat": 48.994175
+            },
+            "codeinsee": "95019",
+            "codes_uic": "87276220"
+        },
+        {
+            "nom": "Gisors",
+            "libellecourt": "GIS",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.78455,
+                "lat": 49.28512
+            },
+            "codeinsee": "27284",
+            "codes_uic": "87381244"
+        },
+        {
+            "nom": "Ach\u00e8res Grand Cormier",
+            "libellecourt": "GCR",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.0919031,
+                "lat": 48.9551835
+            },
+            "codeinsee": "78551",
+            "codes_uic": "87386052"
+        },
+        {
+            "nom": "Castelnau-d'Estr\u00e9tefonds",
+            "libellecourt": "CDF",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.341761,
+                "lat": 43.786196
+            },
+            "codeinsee": "31118",
+            "codes_uic": "87611665"
+        },
+        {
+            "nom": "Lyc\u00e9e Henri Sellier",
+            "libellecourt": "LHS",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.51504,
+                "lat": 48.91646
+            },
+            "codeinsee": "93046",
+            "codes_uic": "87988717"
+        },
+        {
+            "nom": "Vichy",
+            "libellecourt": "VHY",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.430448,
+                "lat": 46.126979
+            },
+            "codeinsee": "3310",
+            "codes_uic": "87732008"
+        },
+        {
+            "nom": "Bougival",
+            "libellecourt": "BGV",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.1323749,
+                "lat": 48.8542135
+            },
+            "codeinsee": "78126",
+            "codes_uic": "87382440"
+        },
+        {
+            "nom": "Bazancourt",
+            "libellecourt": "BZT",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.173887,
+                "lat": 49.361202
+            },
+            "codeinsee": "51043",
+            "codes_uic": "87171462"
+        },
+        {
+            "nom": "L'Abbaye",
+            "libellecourt": "ABJ",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.516874,
+                "lat": 48.922211
+            },
+            "codeinsee": "93046",
+            "codes_uic": "87113886"
+        },
+        {
+            "nom": "Laigneville",
+            "libellecourt": "LAI",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.44894,
+                "lat": 49.29276
+            },
+            "codeinsee": "60342",
+            "codes_uic": "87276204"
+        },
+        {
+            "nom": "Rez\u00e9 Pont Rousseau",
+            "libellecourt": "RPT",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": -1.5495445,
+                "lat": 47.1932425
+            },
+            "codeinsee": "44143",
+            "codes_uic": "87481036"
+        },
+        {
+            "nom": "Voreppe",
+            "libellecourt": "VPE",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 5.632119,
+                "lat": 45.290417
+            },
+            "codeinsee": "38565",
+            "codes_uic": "87747337"
+        },
+        {
+            "nom": "Conflans Fin d'Oise",
+            "libellecourt": "CFD",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.07465,
+                "lat": 48.98931
+            },
+            "codeinsee": "78172",
+            "codes_uic": "87381459"
+        },
+        {
+            "nom": "\u00c9vron",
+            "libellecourt": "EVN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": -0.397338,
+                "lat": 48.155501
+            },
+            "codeinsee": "53097",
+            "codes_uic": "87478552"
+        },
+        {
+            "nom": "Saverne",
+            "libellecourt": "SNE",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 7.3620802,
+                "lat": 48.7444606
+            },
+            "codeinsee": "67437",
+            "codes_uic": "87212225"
+        },
+        {
+            "nom": "Brignais",
+            "libellecourt": "BGN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.7636596,
+                "lat": 45.6737721
+            },
+            "codeinsee": "69027",
+            "codes_uic": "87722728"
+        },
+        {
+            "nom": "Leforest",
+            "libellecourt": "LEF",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.05977,
+                "lat": 50.4278
+            },
+            "codeinsee": "62497",
+            "codes_uic": "87345223"
+        },
+        {
+            "nom": "Libercourt",
+            "libellecourt": "LIK",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.00867,
+                "lat": 50.48025
+            },
+            "codeinsee": "62907",
+            "codes_uic": "87345256"
+        },
+        {
+            "nom": "Saint-Ouen-l'Aum\u00f4ne Quartier de l'\u00c9glise",
+            "libellecourt": "XOA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.10369,
+                "lat": 49.03997
+            },
+            "codeinsee": "95572",
+            "codes_uic": "87381426"
+        },
+        {
+            "nom": "Frasne",
+            "libellecourt": "FRA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 6.157767,
+                "lat": 46.857596
+            },
+            "codeinsee": "25259",
+            "codes_uic": "87715136"
+        },
+        {
+            "nom": "Liancourt - Rantigny",
+            "libellecourt": "LIA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.44532,
+                "lat": 49.32471
+            },
+            "codeinsee": "60524",
+            "codes_uic": "87276212"
+        },
+        {
+            "nom": "Rosny-sous-Bois",
+            "libellecourt": "RSB",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.48559,
+                "lat": 48.87099
+            },
+            "codeinsee": "93064",
+            "codes_uic": "87113704"
+        },
+        {
+            "nom": "Vitr\u00e9",
+            "libellecourt": "VTE",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": -1.211754,
+                "lat": 48.122671
+            },
+            "codeinsee": "35360",
+            "codes_uic": "87471508"
+        },
+        {
+            "nom": "Nanteuil - Sa\u00e2cy",
+            "libellecourt": "NAU",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.2200172,
+                "lat": 48.9738082
+            },
+            "codeinsee": "77397",
+            "codes_uic": "87116558"
+        },
+        {
+            "nom": "Juvisy-sur-Orge",
+            "libellecourt": "JYS",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.38267,
+                "lat": 48.68917
+            },
+            "codeinsee": "91326",
+            "codes_uic": "87545244"
+        },
+        {
+            "nom": "Villab\u00e9",
+            "libellecourt": "VBV",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.461572,
+                "lat": 48.592637
+            },
+            "codeinsee": "91659",
+            "codes_uic": "87681619"
+        },
+        {
+            "nom": "Moulins sur Allier",
+            "libellecourt": "MSA",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.338842,
+                "lat": 46.561346
+            },
+            "codeinsee": "3190",
+            "codes_uic": "87696328"
+        },
+        {
+            "nom": "Frontignan",
+            "libellecourt": "FRN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.758689,
+                "lat": 43.444934
+            },
+            "codeinsee": "34108",
+            "codes_uic": "87773556"
+        },
+        {
+            "nom": "Saint-Martin d'\u00c9tampes",
+            "libellecourt": "SME",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.145401,
+                "lat": 48.42747
+            },
+            "codeinsee": "91223",
+            "codes_uic": "87545350"
+        },
+        {
+            "nom": "Ailly-sur-Somme",
+            "libellecourt": "AYS",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.20059,
+                "lat": 49.92838
+            },
+            "codeinsee": "80011",
+            "codes_uic": "87313098"
+        },
+        {
+            "nom": "Joigny",
+            "libellecourt": "JOI",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 3.393082,
+                "lat": 47.973843
+            },
+            "codeinsee": "89206",
+            "codes_uic": "87683243"
+        },
+        {
+            "nom": "Ailly-sur-Noye",
+            "libellecourt": "ASN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.36419,
+                "lat": 49.75448
+            },
+            "codeinsee": "80010",
+            "codes_uic": "87313221"
+        },
+        {
+            "nom": "Montreuil",
+            "libellecourt": "MFL",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.1511693,
+                "lat": 48.8067323
+            },
+            "codeinsee": "78646",
+            "codes_uic": "87382879"
+        },
+        {
+            "nom": "Illiers-Combray",
+            "libellecourt": "ILC",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 1.2448745,
+                "lat": 48.303937
+            },
+            "codeinsee": "28196",
+            "codes_uic": "87394437"
+        },
+        {
+            "nom": "Orange",
+            "libellecourt": "OGE",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.819594,
+                "lat": 44.137304
+            },
+            "codeinsee": "84087",
+            "codes_uic": "87765107"
+        },
+        {
+            "nom": "Fr\u00e9pillon",
+            "libellecourt": "FPN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.19717,
+                "lat": 49.0462
+            },
+            "codeinsee": "95256",
+            "codes_uic": "87276659"
+        },
+        {
+            "nom": "Gargan",
+            "libellecourt": "GAF",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 2.517109,
+                "lat": 48.908159
+            },
+            "codeinsee": "93057",
+            "codes_uic": "87113860"
+        },
+        {
+            "nom": "V\u00e9nissieux",
+            "libellecourt": "VSX",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 4.888109,
+                "lat": 45.705551
+            },
+            "codeinsee": "69259",
+            "codes_uic": "87723320"
+        },
+        {
+            "nom": "Saint-Louis",
+            "libellecourt": "STL",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 7.5559882,
+                "lat": 47.5906094
+            },
+            "codeinsee": "68297",
+            "codes_uic": "87182139"
+        },
+        {
+            "nom": "Menton Garavan",
+            "libellecourt": "MNJ",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 7.517297,
+                "lat": 43.785202
+            },
+            "codeinsee": "6083",
+            "codes_uic": "87756494"
+        },
+        {
+            "nom": "Nov\u00e9ant-sur-Moselle",
+            "libellecourt": "NEN",
+            "segment_drg": "B",
+            "position_geographique": {
+                "lon": 6.052101,
+                "lat": 49.028635
+            },
+            "codeinsee": "57515",
+            "codes_uic": "87192427"
+        }
+    ]
+}

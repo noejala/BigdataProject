@@ -14,9 +14,9 @@ def formatting_combine():
         base_path = os.path.abspath(os.path.join('../..'))
 
         # Chemins des fichiers Parquet d'entrée
-        static_data_path = os.path.join(base_path, 'dags/lib/data/formatted/belibstaticdata/belib_static_data.parquet')
+        static_data_path = os.path.join(base_path, 'data/raw/belibstaticdata')
         realtime_data_path = os.path.join(base_path,
-                                          'dags/lib/data/formatted/belibrealtime/belib_realtime_data.parquet')
+                                          'dags/lib/data/formatted/belibrealtime')
 
         # Lire les fichiers Parquet
         static_df = spark.read.parquet(static_data_path)
@@ -30,8 +30,8 @@ def formatting_combine():
         merged_df = static_df.join(realtime_df, static_df.id_pdc_local == realtime_df.id_pdc, how='inner')
 
         # Chemin du fichier Parquet de sortie
-        output_dir = os.path.join(base_path, 'dags/lib/data/combined')
-        output_path = os.path.join(output_dir, 'combined_belib_data.parquet')
+        output_dir = os.path.join(base_path, 'data')
+        output_path = os.path.join(output_dir, 'usage')
 
         # Créer le répertoire de sortie s'il n'existe pas
         os.makedirs(output_dir, exist_ok=True)

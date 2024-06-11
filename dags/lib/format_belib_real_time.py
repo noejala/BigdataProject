@@ -10,11 +10,13 @@ def formatting_real_time():
             data = json.load(file)
         return data
 
-    # Définir le chemin de base à partir du script actuel pour remonter jusqu'à la racine du projet
-    base_path = os.path.abspath(os.path.join('../..'))
-
     def format_realtime_data():
-        raw_file_path = os.path.join(base_path, 'dags/lib/data/raw/belibrealtime/belib_realtime_data.json')
+        # Calculate base path to the project root
+        script_dir = os.path.dirname(os.path.realpath(__file__))
+        project_root = os.path.abspath(os.path.join(script_dir, '../../../'))
+
+        # Adjust the path for reading the raw JSON data
+        raw_file_path = os.path.join(project_root, 'data/raw/belibrealtime/belib_realtime_data.json')
         print(f"Raw file path: {raw_file_path}")
 
         if not os.path.exists(raw_file_path):
@@ -22,24 +24,31 @@ def formatting_real_time():
 
         raw_data = read_raw_data(raw_file_path)
 
-        # Assuming each item in raw_data is a dictionary and directly creating a DataFrame
+        # Start a Spark session to process data
         spark = SparkSession.builder \
             .appName("Belib' Realtime Data Processing") \
             .getOrCreate()
 
-        df = spark.createDataFrame(raw_data)  # Directly pass the list of dictionaries to create DataFrame
+        # Create DataFrame directly from the list of dictionaries
+        df = spark.createDataFrame(raw_data)
 
+        # Coalesce data into fewer partitions
         df = df.coalesce(1)
 
-        formatted_output_dir = os.path.join(base_path, 'dags/lib/data/formatted/belibrealtime')
-        formatted_output_path = os.path.join(formatted_output_dir, 'belib_realtime_data.parquet')
+        # Set up paths for output data
+        formatted_output_dir = os.path.join(project_root, 'data/formatted')
+        formatted_output_path = os.path.join(formatted_output_dir, 'belibrealtime')
         print(f"Formatted output directory: {formatted_output_dir}")
         print(f"Formatted output path: {formatted_output_path}")
 
-        os.makedirs(formatted_output_dir, exist_ok=True)
+        # Ensure the output directory exists
+        os.makedirs(formatted_output_path, exist_ok=True)
 
+        # Save data in Parquet format, overwriting any existing data
         df.write.mode('overwrite').parquet(formatted_output_path)
 
         print(f"Data successfully written to Parquet file at {formatted_output_path}")
 
+        # Stop the Spark session to release resources
         spark.stop()
+

@@ -12,10 +12,7 @@ def formatting_real_time():
 
     def format_realtime_data():
         # Calculate base path to the project root
-        script_dir = os.path.dirname(os.path.realpath(__file__))
-        project_root = os.path.abspath(os.path.join(script_dir, '../../../'))
-
-        # Adjust the path for reading the raw JSON data
+        project_root = os.path.abspath(os.path.join('../..'))
         raw_file_path = os.path.join(project_root, 'data/raw/belibrealtime/belib_realtime_data.json')
         print(f"Raw file path: {raw_file_path}")
 
@@ -36,19 +33,22 @@ def formatting_real_time():
         df = df.coalesce(1)
 
         # Set up paths for output data
-        formatted_output_dir = os.path.join(project_root, 'data/formatted')
-        formatted_output_path = os.path.join(formatted_output_dir, 'belibrealtime')
+        formatted_output_dir = os.path.join(project_root, 'data/formatted/belibrealtime')
         print(f"Formatted output directory: {formatted_output_dir}")
-        print(f"Formatted output path: {formatted_output_path}")
 
         # Ensure the output directory exists
-        os.makedirs(formatted_output_path, exist_ok=True)
+        os.makedirs(formatted_output_dir, exist_ok=True)
 
         # Save data in Parquet format, overwriting any existing data
-        df.write.mode('overwrite').parquet(formatted_output_path)
+        df.write.mode('overwrite').parquet(formatted_output_dir)
 
-        print(f"Data successfully written to Parquet file at {formatted_output_path}")
+        print(f"Data successfully written to Parquet file at {formatted_output_dir}")
 
         # Stop the Spark session to release resources
         spark.stop()
 
+    # Call the function to format real-time data
+    format_realtime_data()
+
+
+formatting_real_time()

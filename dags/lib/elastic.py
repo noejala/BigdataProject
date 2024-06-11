@@ -10,8 +10,8 @@ def send_elastic():
         logging.info("Starting send_to_elastic")
 
         # Définir le répertoire de base et le chemin du fichier Parquet
-        base_dir = os.path.expanduser("/airflow/dags/lib/data/combined")
-        parquet_file_path = os.path.join(base_dir, "combined_belib_data.parquet",
+        base_dir = os.path.expanduser("/airflow/data/usage")
+        parquet_file_path = os.path.join(base_dir,
                                          "part-00000-9405c463-a576-4385-b2cc-6ce55237eed2-c000.snappy.parquet")
 
         if not os.path.exists(parquet_file_path):

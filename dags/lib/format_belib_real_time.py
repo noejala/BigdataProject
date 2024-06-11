@@ -46,9 +46,3 @@ def formatting_real_time():
 
         # Stop the Spark session to release resources
         spark.stop()
-
-    # Call the function to format real-time data
-    format_realtime_data()
-
-
-formatting_real_time()

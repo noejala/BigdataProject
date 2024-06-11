@@ -46,8 +46,3 @@ def formatting_stats():
         print(f"Data successfully written to Parquet file at {formatted_output_dir}")
 
         spark.stop()
-
-    format_static_data()
-
-
-formatting_stats()

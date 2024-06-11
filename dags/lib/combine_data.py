@@ -42,7 +42,3 @@ def formatting_combine():
 
         # Arrêter la session Spark
         spark.stop()
-
-    merge_parquet_files()
-
-formatting_combine()

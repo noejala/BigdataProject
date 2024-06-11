@@ -1,0 +1,161 @@
+[2024-06-11T16:34:20.433+0200] {processor.py:161} INFO - Started process (PID=4855) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:34:20.434+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:34:20.434+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:34:20.434+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:34:20.564+0200] {logging_mixin.py:188} INFO - Raw file path: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:34:20.565+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:34:20.564+0200] {dagbag.py:350} ERROR - Failed to import: /Users/noejalabert/airflow/dags/my_datalake.py
+Traceback (most recent call last):
+  File "/Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/noejalabert/airflow/dags/my_datalake.py", line 4, in <module>
+    from lib.format_belib_real_time import formatting_real_time
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 54, in <module>
+    formatting_real_time()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 51, in formatting_real_time
+    format_realtime_data()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 20, in format_realtime_data
+    raise FileNotFoundError(f"File not found: {raw_file_path}")
+FileNotFoundError: File not found: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:34:20.565+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:34:20.606+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.175 seconds
+[2024-06-11T16:35:58.685+0200] {processor.py:161} INFO - Started process (PID=4974) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:35:58.687+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:35:58.687+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:35:58.687+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:35:58.820+0200] {logging_mixin.py:188} INFO - Raw file path: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:35:58.821+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:35:58.820+0200] {dagbag.py:350} ERROR - Failed to import: /Users/noejalabert/airflow/dags/my_datalake.py
+Traceback (most recent call last):
+  File "/Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/noejalabert/airflow/dags/my_datalake.py", line 4, in <module>
+    from lib.format_belib_real_time import formatting_real_time
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 54, in <module>
+    formatting_real_time()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 51, in formatting_real_time
+    format_realtime_data()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 20, in format_realtime_data
+    raise FileNotFoundError(f"File not found: {raw_file_path}")
+FileNotFoundError: File not found: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:35:58.822+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:35:58.860+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.176 seconds
+[2024-06-11T16:37:30.137+0200] {processor.py:161} INFO - Started process (PID=5058) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:37:30.137+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:37:30.138+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:37:30.138+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:37:30.271+0200] {logging_mixin.py:188} INFO - Raw file path: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:37:30.272+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:37:30.272+0200] {dagbag.py:350} ERROR - Failed to import: /Users/noejalabert/airflow/dags/my_datalake.py
+Traceback (most recent call last):
+  File "/Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/noejalabert/airflow/dags/my_datalake.py", line 4, in <module>
+    from lib.format_belib_real_time import formatting_real_time
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 54, in <module>
+    formatting_real_time()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 51, in formatting_real_time
+    format_realtime_data()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 20, in format_realtime_data
+    raise FileNotFoundError(f"File not found: {raw_file_path}")
+FileNotFoundError: File not found: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:37:30.273+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:37:30.311+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.176 seconds
+[2024-06-11T16:39:00.150+0200] {processor.py:161} INFO - Started process (PID=5147) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:39:00.150+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:39:00.150+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:39:00.150+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:39:00.258+0200] {logging_mixin.py:188} INFO - Raw file path: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:39:00.259+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:39:00.258+0200] {dagbag.py:350} ERROR - Failed to import: /Users/noejalabert/airflow/dags/my_datalake.py
+Traceback (most recent call last):
+  File "/Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/noejalabert/airflow/dags/my_datalake.py", line 4, in <module>
+    from lib.format_belib_real_time import formatting_real_time
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 54, in <module>
+    formatting_real_time()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 51, in formatting_real_time
+    format_realtime_data()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 20, in format_realtime_data
+    raise FileNotFoundError(f"File not found: {raw_file_path}")
+FileNotFoundError: File not found: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:39:00.259+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:39:00.298+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.150 seconds
+[2024-06-11T16:40:27.286+0200] {processor.py:161} INFO - Started process (PID=5220) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:40:27.287+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:40:27.287+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:40:27.287+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:40:27.395+0200] {logging_mixin.py:188} INFO - Raw file path: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:40:27.396+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:40:27.396+0200] {dagbag.py:350} ERROR - Failed to import: /Users/noejalabert/airflow/dags/my_datalake.py
+Traceback (most recent call last):
+  File "/Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/noejalabert/airflow/dags/my_datalake.py", line 4, in <module>
+    from lib.format_belib_real_time import formatting_real_time
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 54, in <module>
+    formatting_real_time()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 51, in formatting_real_time
+    format_realtime_data()
+  File "/Users/noejalabert/airflow/dags/lib/format_belib_real_time.py", line 20, in format_realtime_data
+    raise FileNotFoundError(f"File not found: {raw_file_path}")
+FileNotFoundError: File not found: /Users/data/raw/belibrealtime/belib_realtime_data.json
+[2024-06-11T16:40:27.397+0200] {processor.py:842} WARNING - No viable dags retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:40:27.438+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.153 seconds
+[2024-06-11T16:41:56.678+0200] {processor.py:161} INFO - Started process (PID=5353) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:41:56.679+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:41:56.679+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:41:56.679+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:41:57.104+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:41:57.191+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:41:57.191+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:41:57.195+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:41:57.195+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:41:57.206+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.529 seconds
+[2024-06-11T16:43:27.533+0200] {processor.py:161} INFO - Started process (PID=5444) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:43:27.534+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:43:27.534+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:43:27.534+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:43:28.164+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:43:28.219+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:43:28.219+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:43:28.224+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:43:28.224+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:43:28.233+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.701 seconds
+[2024-06-11T16:44:17.004+0200] {processor.py:161} INFO - Started process (PID=5519) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:44:17.004+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:44:17.005+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:44:17.005+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:44:17.372+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:44:17.383+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:44:17.383+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:44:17.417+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:44:17.417+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:44:17.425+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.423 seconds
+[2024-06-11T16:45:57.689+0200] {processor.py:161} INFO - Started process (PID=5650) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:45:57.690+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:45:57.690+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:45:57.690+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:45:58.038+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:45:58.127+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:45:58.127+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:45:58.131+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:45:58.131+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:45:58.139+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.452 seconds
+[2024-06-11T16:47:25.659+0200] {processor.py:161} INFO - Started process (PID=5773) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:47:25.660+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:47:25.661+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:47:25.660+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:47:26.038+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:47:26.089+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:47:26.089+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:47:26.093+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:47:26.093+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:47:26.101+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.444 seconds
+[2024-06-11T16:48:48.998+0200] {processor.py:161} INFO - Started process (PID=5861) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:48:48.999+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:48:48.999+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:48:48.999+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:48:49.385+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:48:49.435+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:48:49.434+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:48:49.439+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:48:49.439+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:48:49.446+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.450 seconds
+[2024-06-11T16:50:20.028+0200] {processor.py:161} INFO - Started process (PID=5957) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:50:20.029+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:50:20.029+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:50:20.029+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:50:20.372+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:50:20.425+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:50:20.425+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:50:20.430+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:50:20.429+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:50:20.438+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.411 seconds
+[2024-06-11T16:51:48.674+0200] {processor.py:161} INFO - Started process (PID=6074) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:51:48.675+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:51:48.675+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:51:48.675+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:51:49.057+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:51:49.107+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:51:49.107+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:51:49.113+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:51:49.113+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:51:49.120+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.448 seconds

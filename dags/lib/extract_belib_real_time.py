@@ -32,10 +32,14 @@ def extract_real_time():
             return None
 
     def save_data_to_file(data, filename='belib_realtime_data.json'):
-        base_path = os.path.abspath(os.path.join('../..'))
-        destination_path = os.path.join(base_path, 'data/raw/belibrealtime')
-        os.makedirs(destination_path, exist_ok=True)
-        file_path = os.path.join(destination_path, filename)
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        print(f"Script directory: {script_dir}")
+
+        target_dir = os.path.join(script_dir, '../../data/raw/belibrealtime')
+        print(f"Target directory: {target_dir}")
+
+        os.makedirs(target_dir, exist_ok=True)
+        file_path = os.path.join(target_dir, filename)
 
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
@@ -50,5 +54,3 @@ def extract_real_time():
         print("No data to save.")
 
     print("Script is running from:", os.path.abspath(os.curdir))
-
-extract_real_time()

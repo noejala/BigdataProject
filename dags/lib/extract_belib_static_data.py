@@ -58,7 +58,3 @@ def extract_stats():
         print("No data to save.")
 
     print("Script is running from:", os.path.abspath(os.curdir))
-
-
-# Exécutez la fonction principale
-extract_stats()

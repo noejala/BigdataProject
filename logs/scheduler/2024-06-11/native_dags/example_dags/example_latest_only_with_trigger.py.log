@@ -75,3 +75,10 @@
 [2024-06-11T16:51:22.947+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:51:22.946+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-11T16:51:22.955+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:51:22.954+0200] {dag.py:3954} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-06-11 08:00:00+00:00, run_after=2024-06-11 12:00:00+00:00
 [2024-06-11T16:51:22.962+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.075 seconds
+[2024-06-11T16:54:12.317+0200] {processor.py:161} INFO - Started process (PID=6357) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-06-11T16:54:12.319+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-06-11T16:54:12.319+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:54:12.319+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-06-11T16:54:12.323+0200] {processor.py:840} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-06-11T16:54:12.412+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:54:12.412+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:54:12.419+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:54:12.419+0200] {dag.py:3954} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-06-11 08:00:00+00:00, run_after=2024-06-11 12:00:00+00:00
+[2024-06-11T16:54:12.428+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.112 seconds

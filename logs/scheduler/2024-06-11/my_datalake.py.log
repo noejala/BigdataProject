@@ -159,3 +159,17 @@ FileNotFoundError: File not found: /Users/data/raw/belibrealtime/belib_realtime_
 [2024-06-11T16:51:49.107+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:51:49.107+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-11T16:51:49.113+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:51:49.113+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
 [2024-06-11T16:51:49.120+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.448 seconds
+[2024-06-11T16:53:02.404+0200] {processor.py:161} INFO - Started process (PID=6273) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:53:02.405+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:53:02.405+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:53:02.405+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:53:02.809+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:53:02.820+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:53:02.820+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:53:03.009+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:53:03.008+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:53:03.054+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.652 seconds
+[2024-06-11T16:54:45.006+0200] {processor.py:161} INFO - Started process (PID=6394) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:54:45.007+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-11T16:54:45.007+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:54:45.007+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:54:45.429+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-11T16:54:45.517+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:54:45.516+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-11T16:54:45.520+0200] {logging_mixin.py:188} INFO - [2024-06-11T16:54:45.520+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-11T16:54:45.528+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.524 seconds

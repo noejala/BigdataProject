@@ -33,7 +33,7 @@ def extract_real_time():
 
     def save_data_to_file(data, filename='belib_realtime_data.json'):
         base_path = os.path.abspath(os.path.join('../..'))
-        destination_path = os.path.join(base_path, 'dags/lib/data/raw/belibrealtime')
+        destination_path = os.path.join(base_path, 'data/raw/belibrealtime')
         os.makedirs(destination_path, exist_ok=True)
         file_path = os.path.join(destination_path, filename)
 

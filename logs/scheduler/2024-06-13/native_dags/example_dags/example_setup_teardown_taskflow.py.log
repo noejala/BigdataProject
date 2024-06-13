@@ -33,3 +33,10 @@
 [2024-06-13T12:24:43.012+0200] {logging_mixin.py:188} INFO - [2024-06-13T12:24:43.012+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-13T12:24:43.019+0200] {logging_mixin.py:188} INFO - [2024-06-13T12:24:43.019+0200] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-06-12 00:00:00+00:00, run_after=2024-06-13 00:00:00+00:00
 [2024-06-13T12:24:43.028+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.091 seconds
+[2024-06-13T14:00:49.195+0200] {processor.py:161} INFO - Started process (PID=2771) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-06-13T14:00:49.196+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2024-06-13T14:00:49.196+0200] {logging_mixin.py:188} INFO - [2024-06-13T14:00:49.196+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-06-13T14:00:49.213+0200] {processor.py:840} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-06-13T14:00:49.292+0200] {logging_mixin.py:188} INFO - [2024-06-13T14:00:49.292+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-13T14:00:49.322+0200] {logging_mixin.py:188} INFO - [2024-06-13T14:00:49.322+0200] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-06-12 00:00:00+00:00, run_after=2024-06-13 00:00:00+00:00
+[2024-06-13T14:00:49.330+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.136 seconds

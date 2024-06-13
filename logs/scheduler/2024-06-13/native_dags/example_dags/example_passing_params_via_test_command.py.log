@@ -33,3 +33,10 @@
 [2024-06-13T12:24:53.901+0200] {logging_mixin.py:188} INFO - [2024-06-13T12:24:53.901+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-13T12:24:53.910+0200] {logging_mixin.py:188} INFO - [2024-06-13T12:24:53.910+0200] {dag.py:3954} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-06-13 10:23:00+00:00, run_after=2024-06-13 10:24:00+00:00
 [2024-06-13T12:24:53.919+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.104 seconds
+[2024-06-13T14:00:59.841+0200] {processor.py:161} INFO - Started process (PID=2779) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-06-13T14:00:59.842+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-06-13T14:00:59.842+0200] {logging_mixin.py:188} INFO - [2024-06-13T14:00:59.842+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-06-13T14:00:59.859+0200] {processor.py:840} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-06-13T14:00:59.961+0200] {logging_mixin.py:188} INFO - [2024-06-13T14:00:59.961+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-13T14:00:59.970+0200] {logging_mixin.py:188} INFO - [2024-06-13T14:00:59.969+0200] {dag.py:3954} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-06-13 11:59:00+00:00, run_after=2024-06-13 12:00:00+00:00
+[2024-06-13T14:00:59.977+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.137 seconds

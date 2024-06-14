@@ -1,0 +1,28 @@
+[2024-06-14T09:59:32.408+0200] {processor.py:161} INFO - Started process (PID=22235) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T09:59:32.409+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-14T09:59:32.409+0200] {logging_mixin.py:188} INFO - [2024-06-14T09:59:32.409+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T09:59:32.747+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T09:59:32.759+0200] {logging_mixin.py:188} INFO - [2024-06-14T09:59:32.759+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-14T09:59:32.794+0200] {logging_mixin.py:188} INFO - [2024-06-14T09:59:32.794+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-14T09:59:32.802+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.396 seconds
+[2024-06-14T10:01:08.438+0200] {processor.py:161} INFO - Started process (PID=22398) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:01:08.438+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-14T10:01:08.439+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:01:08.439+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:01:08.767+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:01:08.845+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:01:08.845+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-14T10:01:08.849+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:01:08.849+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-14T10:01:08.856+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.420 seconds
+[2024-06-14T10:02:33.303+0200] {processor.py:161} INFO - Started process (PID=22499) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:02:33.305+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-14T10:02:33.305+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:02:33.305+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:02:33.679+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:02:33.732+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:02:33.731+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-14T10:02:33.736+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:02:33.736+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-14T10:02:33.745+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.443 seconds
+[2024-06-14T10:04:11.174+0200] {processor.py:161} INFO - Started process (PID=22651) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:04:11.175+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-14T10:04:11.175+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:04:11.175+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:04:11.566+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:04:11.632+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:04:11.632+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-14T10:04:11.637+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:04:11.637+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-14T10:04:11.646+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.473 seconds

@@ -1,0 +1,21 @@
+[2024-06-14T10:00:50.931+0200] {processor.py:161} INFO - Started process (PID=22383) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:00:50.932+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-06-14T10:00:50.932+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:00:50.932+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:00:51.015+0200] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:00:51.125+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:00:51.125+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-14T10:00:51.129+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:00:51.129+0200] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-06-14T10:00:51.137+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.208 seconds
+[2024-06-14T10:02:21.726+0200] {processor.py:161} INFO - Started process (PID=22487) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:02:21.727+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-06-14T10:02:21.728+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:02:21.727+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:02:21.827+0200] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:02:21.967+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:02:21.966+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-14T10:02:21.971+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:02:21.971+0200] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-06-14T10:02:21.982+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.258 seconds
+[2024-06-14T10:03:57.013+0200] {processor.py:161} INFO - Started process (PID=22579) to work on /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:03:57.013+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-06-14T10:03:57.014+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:03:57.014+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:03:57.103+0200] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-06-14T10:03:57.239+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:03:57.239+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-14T10:03:57.246+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:03:57.246+0200] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-06-14T10:03:57.258+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.247 seconds

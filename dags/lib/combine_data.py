@@ -39,5 +39,5 @@ def formatting_combine():
 
         print(f"Data successfully merged and written to Parquet file at {output_path}")
 
-        # Arrêter la session Spark
+        # Arrêter la session Spark[
         spark.stop()

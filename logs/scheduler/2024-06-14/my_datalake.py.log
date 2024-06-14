@@ -110,3 +110,10 @@
 [2024-06-14T10:33:00.841+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:33:00.841+0200] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-06-14T10:33:00.845+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:33:00.845+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
 [2024-06-14T10:33:00.853+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.394 seconds
+[2024-06-14T10:34:24.803+0200] {processor.py:161} INFO - Started process (PID=2855) to work on /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:34:24.804+0200] {processor.py:830} INFO - Processing file /Users/noejalabert/airflow/dags/my_datalake.py for tasks to queue
+[2024-06-14T10:34:24.804+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:34:24.804+0200] {dagbag.py:540} INFO - Filling up the DagBag from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:34:25.133+0200] {processor.py:840} INFO - DAG(s) 'my_datalake' retrieved from /Users/noejalabert/airflow/dags/my_datalake.py
+[2024-06-14T10:34:25.184+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:34:25.184+0200] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-14T10:34:25.189+0200] {logging_mixin.py:188} INFO - [2024-06-14T10:34:25.189+0200] {dag.py:3954} INFO - Setting next_dagrun for my_datalake to None, run_after=None
+[2024-06-14T10:34:25.197+0200] {processor.py:183} INFO - Processing /Users/noejalabert/airflow/dags/my_datalake.py took 0.395 seconds

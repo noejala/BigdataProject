@@ -2,31 +2,31 @@ import requests
 import json
 import os
 
-
+#Extraction des données en temsp réel
 def extract_real_time():
     def fetch_realtime_data():
         base_url = 'https://opendata.paris.fr/api/records/1.0/search/'
         params = {
             'dataset': 'belib-points-de-recharge-pour-vehicules-electriques-disponibilite-temps-reel',
-            'rows': 2100  # Ajustez cette limite selon vos besoins
+            'rows': 2100
         }
 
         response = requests.get(base_url, params=params)
         if response.status_code == 200:
             print("API data fetched successfully from Belib' - Disponibilité Temps Réel!")
-            data = response.json()  # Recevoir les données JSON
+            data = response.json()
             filtered_data = []
 
-            # Colonnes à exclure
+            # Données qui ne nous interessent pas
             exclude_columns = ['coordonneesxy', 'url_description', 'adresse_station', 'arrondissement',
                                'code_insee_commune']
 
-            # Filtrer les colonnes pour chaque enregistrement
+            # Filtres pour chaque colonne
             for record in data.get('records', []):
                 filtered_record = {key: val for key, val in record['fields'].items() if key not in exclude_columns}
                 filtered_data.append(filtered_record)
 
-            return filtered_data  # Retourne les données filtrées
+            return filtered_data
         else:
             print(f"Request failed with status code {response.status_code}")
             return None
@@ -46,7 +46,7 @@ def extract_real_time():
 
         print(f"Data saved to file successfully at {file_path}")
 
-    # Exécution des fonctions pour récupérer et sauvegarder les données filtrées
+    # Exécution
     data = fetch_realtime_data()
     if data:
         save_data_to_file(data)

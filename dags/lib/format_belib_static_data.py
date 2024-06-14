@@ -14,7 +14,7 @@ def formatting_stats():
         return data
 
     def format_static_data():
-        # Calculate base path to the project root
+        # Bon chemin d'accès
         project_root = os.path.abspath(os.path.join('../..'))
         raw_file_path = os.path.join(project_root, 'data/raw/belibstaticdata/belib_static_data.json')
         print(f"Raw file path: {raw_file_path}")
@@ -24,18 +24,15 @@ def formatting_stats():
 
         raw_data = read_raw_data(raw_file_path)
 
-        # Since the data is a direct list of dictionaries, no need to map to 'fields'
+        # Session Spark pour traiter les données
         spark = SparkSession.builder \
             .appName("Belib' Static Data Processing") \
             .getOrCreate()
 
-        # Create DataFrame directly from the list of dictionaries
         df = spark.createDataFrame(raw_data)  # Directly pass the list of dictionaries
-
-        # Coalesce data into fewer partitions
         df = df.coalesce(1)
 
-        # Set up paths for output data
+        # Bon chemin d'accès pour l'output
         formatted_output_dir = os.path.join(project_root, 'data/formatted/belibstaticdata')
         print(f"Formatted output directory: {formatted_output_dir}")
 

@@ -3,7 +3,7 @@ import json
 from pyspark.sql import SparkSession
 
 
-
+#Formatte les données statistiques
 
 def formatting_stats():
     def read_raw_data(file_path):

@@ -2,6 +2,8 @@ import os
 import json
 from pyspark.sql import SparkSession
 
+#Formatte les données temps réel
+
 def formatting_real_time():
     def read_raw_data(file_path):
         if not os.path.exists(file_path):

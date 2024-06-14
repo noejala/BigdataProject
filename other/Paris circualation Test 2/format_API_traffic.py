@@ -25,7 +25,6 @@ def convert_json_to_parquet(json_file_path, output_directory, parquet_file_name)
     os.makedirs(output_directory, exist_ok=True)
     parquet_file_path = os.path.join(output_directory, parquet_file_name)
 
-    # Read the JSON file
     try:
         with open(json_file_path, 'r') as f:
             data = json.load(f)  # Load the JSON from the file
@@ -36,7 +35,6 @@ def convert_json_to_parquet(json_file_path, output_directory, parquet_file_name)
     except Exception as e:
         print(f"Failed to process the file: {e}")
 
-# Define the absolute paths correctly
 base_path = '../..'
 json_file_path = os.path.join(base_path, "dags/lib/data/raw/traffic/traffic_data.json")
 output_directory = os.path.join(base_path, "dags/lib/data/formatted/traffic")

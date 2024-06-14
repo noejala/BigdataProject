@@ -17,30 +17,23 @@ def fetch_construction_data():
         return None
 
 def save_data_to_file(data, filename='construct_data.json'):
-    # Define the base path from the current script going up to the project root
     base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
 
-    # Construct the path to the 'traffic' folder
     destination_path = os.path.join(base_path, 'dags/lib/data/raw/construction')
 
-    # Ensure the folder exists, otherwise create it
     os.makedirs(destination_path, exist_ok=True)
 
-    # Full path of the output file
     file_path = os.path.join(destination_path, filename)
 
-    # Open a file in write mode and save the JSON data
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
     print(f"Data saved to file successfully at {file_path}")
 
-# Call the function to fetch the data
 data = fetch_construction_data()
 
-# Check if data was fetched
 if data:
-    save_data_to_file(data)  # Save the data in a specific file
+    save_data_to_file(data)
 else:
     print("No data to save.")
 

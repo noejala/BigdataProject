@@ -8,6 +8,7 @@ from lib.extract_belib_real_time import extract_real_time
 from lib.combine_data import formatting_combine
 from lib.elastic import send_elastic
 
+#DAG pour Airflow, avec nos 6 tâches
 with DAG(
        'my_datalake',
        params={'fake_param_to_have_conf_in_ui' : 123},

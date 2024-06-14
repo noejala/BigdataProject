@@ -20,7 +20,7 @@ def send_elastic():
         # Créer une instance du client Elasticsearch
         client = Elasticsearch(
             hosts=["https://localhost:9200"],
-            basic_auth=('elastic', 'wfxJtPbnuptN-mqM80vX'),
+            basic_auth=('elastic', 'f7w3gnbXu*e8=O947cIh'),
             ca_certs=False,
             verify_certs=False
         )
